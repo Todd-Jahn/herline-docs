@@ -1,0 +1,41 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary
+*.tmp
+*.log
+*.bak
+
+# Node (for potential tooling)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Markdown lint cache
+.markdownlint-cache
+
+# Python (for potential tooling scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Never commit
+*.env
+*.env.local
+.secrets/
+secrets.json
+
+# Build artifacts (none expected, but safety)
+dist/
+build/

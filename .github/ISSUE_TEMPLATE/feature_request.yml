@@ -1,0 +1,54 @@
+name: Documentation Enhancement
+description: Suggest an improvement to the documentation
+title: "[Enhancement] "
+labels: ["documentation", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to improve our docs!
+
+        **For product feature requests** (new Herline capabilities), please email `hi@herline.vip` — this form is only for documentation improvements in this repository.
+
+  - type: textarea
+    id: gap
+    attributes:
+      label: What's missing or unclear in the docs?
+      description: Describe the gap or confusion
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+      description: What content, structure, or change would address the gap?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which area?
+      options:
+        - Getting started / onboarding
+        - Architecture explanation
+        - Glossary / terminology
+        - FAQ
+        - Examples / use cases
+        - Translation
+        - Contributing guide
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: willing
+    attributes:
+      label: Would you like to contribute a PR?
+      options:
+        - "Yes, I'll submit a PR"
+        - "No, just suggesting"
+        - "Maybe, with guidance"
+    validations:
+      required: true

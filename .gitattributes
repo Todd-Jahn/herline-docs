@@ -1,0 +1,22 @@
+# Ensure consistent line endings across platforms
+* text=auto eol=lf
+
+# Markdown and docs
+*.md text eol=lf
+*.txt text eol=lf
+
+# YAML / JSON
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# SVG (treated as text for diff purposes)
+*.svg text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary

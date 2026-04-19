@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 780" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif">
+  <defs>
+    <linearGradient id="layerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#5b8def;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0.15"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#6366f1"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="350" y="40" text-anchor="middle" font-size="22" font-weight="600" fill="#1e293b">Herline — 7-Layer Pipeline</text>
+  <text x="350" y="62" text-anchor="middle" font-size="13" fill="#64748b">From expertise to outbound deliverables</text>
+
+  <!-- Layer 1: Assessment -->
+  <rect x="150" y="90" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="118" font-size="16" font-weight="600" fill="#1e293b">1. Assessment</text>
+  <text x="175" y="140" font-size="12" fill="#475569">Capture your professional profile</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="162" x2="350" y2="180" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 2: Atlas -->
+  <rect x="150" y="188" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="216" font-size="16" font-weight="600" fill="#1e293b">2. Atlas</text>
+  <text x="175" y="238" font-size="12" fill="#475569">Personalized book &amp; content planning</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="260" x2="350" y2="278" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 3: Library (D2B) -->
+  <rect x="150" y="286" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="314" font-size="16" font-weight="600" fill="#1e293b">3. Library (D2B)</text>
+  <text x="175" y="336" font-size="12" fill="#475569">Books → knowledge blocks (Claims / Concepts / Methods)</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="358" x2="350" y2="376" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 4: Studio -->
+  <rect x="150" y="384" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="412" font-size="16" font-weight="600" fill="#1e293b">4. Studio</text>
+  <text x="175" y="434" font-size="12" fill="#475569">Course strategy from your knowledge graph</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="456" x2="350" y2="474" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 5: Courses (B2C) -->
+  <rect x="150" y="482" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="510" font-size="16" font-weight="600" fill="#1e293b">5. Courses (B2C)</text>
+  <text x="175" y="532" font-size="12" fill="#475569">Full courses with scripts, TTS audio, assessments</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="554" x2="350" y2="572" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 6: Prep -->
+  <rect x="150" y="580" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="608" font-size="16" font-weight="600" fill="#1e293b">6. Prep</text>
+  <text x="175" y="630" font-size="12" fill="#475569">Keynotes · Pitch decks · Teaching materials · Slides</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="652" x2="350" y2="670" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Layer 7: Boost -->
+  <rect x="150" y="678" width="400" height="64" rx="8" fill="url(#layerGradient)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="175" y="706" font-size="16" font-weight="600" fill="#1e293b">7. Boost</text>
+  <text x="175" y="728" font-size="12" fill="#475569">Multi-platform distribution &amp; adaptation</text>
+
+  <!-- Footer -->
+  <text x="350" y="768" text-anchor="middle" font-size="11" fill="#94a3b8">Each layer usable standalone. Chain for one-book-in, complete-deliverables-out.</text>
+</svg>

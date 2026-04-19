@@ -1,0 +1,62 @@
+name: Content Contribution Proposal
+description: Propose a translation, example, or major content addition
+title: "[Contribution] "
+labels: ["contribution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to contribute substantive content!
+
+        For small typo fixes, please just open a PR directly — no issue needed.
+
+        Use this form for larger proposals (translations, new examples, major doc sections) where we should align on scope before you invest time.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of contribution
+      options:
+        - Translation (into a new language)
+        - Example / case study
+        - New doc section
+        - Major rewrite of existing doc
+        - Resource list contribution
+        - Other (specify below)
+    validations:
+      required: true
+
+  - type: input
+    id: locale
+    attributes:
+      label: (If translation) Which locale?
+      placeholder: "e.g., zh-TW, ja-JP, es-ES, pt-BR"
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What do you want to contribute?
+      description: |
+        Describe the proposal in detail:
+        - What will it cover?
+        - Why does it matter?
+        - Roughly how long / how many files?
+        - Any examples or reference points?
+    validations:
+      required: true
+
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Timeline
+      description: (Optional) When do you plan to start and finish?
+
+  - type: checkboxes
+    id: license
+    attributes:
+      label: License agreement
+      options:
+        - label: I agree to contribute under [CC BY 4.0](../../LICENSE)
+          required: true
+        - label: I have read [CONTRIBUTING.md](../../CONTRIBUTING.md)
+          required: true

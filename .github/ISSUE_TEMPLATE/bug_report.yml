@@ -1,0 +1,61 @@
+name: Documentation Bug
+description: Report a problem with the documentation in this repository
+title: "[Docs] "
+labels: ["documentation", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a documentation issue!
+
+        **For product bugs** (issues with [herline.vip](https://herline.vip) itself), please email `hi@herline.vip` instead — this form is only for documentation problems in this repository.
+
+  - type: dropdown
+    id: doc_type
+    attributes:
+      label: Which doc is affected?
+      options:
+        - README.md
+        - README.zh-CN.md
+        - docs/architecture.md
+        - docs/glossary.md
+        - docs/faq.md
+        - docs/data-handling.md
+        - examples/
+        - CONTRIBUTING.md
+        - Other (specify below)
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Specific location
+      description: Section heading, line number, or URL anchor
+      placeholder: "e.g., README.md > Architecture section"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Describe the issue clearly. Include screenshots if helpful.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: (Optional) What should it say instead?
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this isn't a duplicate
+          required: true
+        - label: This is a documentation issue, not a product bug
+          required: true
