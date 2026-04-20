@@ -133,18 +133,18 @@ We're not running a public funding round at time of writing. Qualified parties c
 ### How do I get help with the product?
 - **In-product**: use the help menu on [herline.vip](https://herline.vip)
 - **Email**: `hi@herline.vip`
-- **Discussion (documentation issues only)**: [GitHub Discussions](https://github.com/herline/herline/discussions)
+- **Discussion (documentation issues only)**: [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
 
 ### How do I report a bug?
 - **Product bugs**: use in-app "Report a Bug" or email `hi@herline.vip`
-- **Documentation bugs (this repo)**: [open a GitHub issue](https://github.com/herline/herline/issues/new/choose)
+- **Documentation bugs (this repo)**: [open a GitHub issue](https://github.com/Todd-Jahn/herline-docs/issues/new/choose)
 
 ### How do I report a security vulnerability?
 Email `security@herline.vip` — see [SECURITY.md](../SECURITY.md) for the full process.
 
 ### How do I request a feature?
 - **Product features**: email `hi@herline.vip` or use in-product feedback
-- **Documentation enhancements**: [open a GitHub issue](https://github.com/herline/herline/issues/new/choose)
+- **Documentation enhancements**: [open a GitHub issue](https://github.com/Todd-Jahn/herline-docs/issues/new/choose)
 
 ---
 

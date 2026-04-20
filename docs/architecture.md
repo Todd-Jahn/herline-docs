@@ -2,6 +2,10 @@
 
 A deeper walkthrough of Herline's 7-layer pipeline than the main [README](../README.md) provides. Still conceptual — core engines are proprietary.
 
+<p align="center">
+  <img src="../assets/architecture-diagram.svg" alt="Herline 7-layer pipeline diagram" width="520">
+</p>
+
 ## Design Philosophy
 
 Herline is built on three structural choices that differ from mainstream AI tools:

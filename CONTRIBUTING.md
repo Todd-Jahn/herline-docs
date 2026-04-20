@@ -79,7 +79,7 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Questions?
 
-- Open a [GitHub Discussion](https://github.com/herline/herline/discussions)
+- Open a [GitHub Discussion](https://github.com/Todd-Jahn/herline-docs/discussions)
 - Email `hi@herline.vip`
 
 We're glad you're here.

@@ -226,12 +226,11 @@ More questions? See [`docs/faq.md`](docs/faq.md) for the extended FAQ.
 ## Resources
 
 - 🌐 **Product** — [herline.vip](https://herline.vip)
-- 📖 **Documentation** — [docs.herline.vip](https://docs.herline.vip) *(coming soon)*
+- 📖 **Documentation** — [`docs/`](docs/) (architecture · glossary · FAQ · data handling)
 - 🏛️ **Architecture walkthrough** — [`docs/architecture.md`](docs/architecture.md)
 - 📚 **Glossary** — [`docs/glossary.md`](docs/glossary.md)
 - 🎓 **Example outputs** — [`examples/`](examples/)
-- 📋 **Awesome Super Individual** — curated resources for solopreneurs *(coming soon)*
-- 💬 **Discussions** — [GitHub Discussions](https://github.com/herline/herline/discussions)
+- 💬 **Discussions** — [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
 - 📧 **Contact** — hi@herline.vip
 - 🤝 **Partner / institutional inquiries** — partners@herline.vip
 
