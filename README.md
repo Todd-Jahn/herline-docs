@@ -230,6 +230,7 @@ More questions? See [`docs/faq.md`](docs/faq.md) for the extended FAQ.
 - 🏛️ **Architecture walkthrough** — [`docs/architecture.md`](docs/architecture.md)
 - 📚 **Glossary** — [`docs/glossary.md`](docs/glossary.md)
 - 🎓 **Example outputs** — [`examples/`](examples/)
+- 📋 **Awesome Super Individual** — [curated resources for solopreneurs](https://github.com/Todd-Jahn/awesome-super-individual) (companion list, CC0)
 - 💬 **Discussions** — [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
 - 📧 **Contact** — hi@herline.vip
 - 🤝 **Partner / institutional inquiries** — partners@herline.vip

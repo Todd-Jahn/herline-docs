@@ -237,6 +237,7 @@ Herline 不是又一个 AI 写作工具。它是一条**垂直管线**，专门�
 - 🏛️ **架构说明** —— [`docs/architecture.md`](docs/architecture.md)
 - 📚 **术语表** —— [`docs/glossary.md`](docs/glossary.md)
 - 🎓 **案例展示** —— [`examples/`](examples/)
+- 📋 **Awesome Super Individual** —— [超级个体资源精选](https://github.com/Todd-Jahn/awesome-super-individual)（姊妹清单，CC0 公共领域）
 - 💬 **社区讨论** —— [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
 - 📧 **商务联系** —— hi@herline.vip
 - 🤝 **合作与机构咨询** —— partners@herline.vip
