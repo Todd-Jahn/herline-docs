@@ -4,25 +4,14 @@ Static assets referenced by documentation in this repository.
 
 ## Current Contents
 
-- `architecture-diagram.svg` — A simple vector diagram of the 7-layer pipeline, referenced from the main README and `docs/architecture.md`.
+- `logo.svg` — Herline brand mark (asymmetric H, gradient indigo-to-blue). Referenced in README header. Transparent background — sits on any surface.
+- `architecture-diagram.svg` — Vector diagram of the 7-layer pipeline. Referenced from `docs/architecture.md`.
+- `social-preview.svg` + `social-preview.png` — 1280x640 social media preview card for the GitHub repo. SVG is the source-of-truth; PNG is the rendered output uploaded to GitHub Settings → Social preview.
 
-## Needed — TODO (add these before publishing)
+## Optional — Future Additions
 
-These assets need to be created and dropped into this folder. Once added, the `README.md` references will resolve correctly.
-
-### `logo.svg` (required)
-Herline's logo as SVG. Referenced in README header. Target: clean, monochrome or subtle two-color version. Vector format for crispness at any size.
-
-### `logo-128.png` (recommended)
-PNG fallback for the logo. 128x128px. Some GitHub surfaces render PNG more reliably than SVG.
-
-### `social-preview.png` (recommended)
-Social media preview image for the GitHub repo. **1280x640px**. Shown when the repo is linked on Twitter, LinkedIn, Discord, etc. Should feature:
-- Herline name and tagline
-- Clean, legible design
-- Consistent with brand identity
-
-Upload in GitHub repo Settings → Options → Social preview.
+### `logo-128.png` (optional)
+PNG fallback for the logo. 128x128px. Useful for surfaces that don't render SVG (rare on modern GitHub).
 
 ### `screenshots/` (optional)
 Product screenshots, if the team wants to include them. Keep public-safe:
