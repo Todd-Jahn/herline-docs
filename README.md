@@ -56,6 +56,29 @@ The mission: **make every knowledge worker a viable one-person company.**
 
 ---
 
+## Why Now — The Two-Axis Thesis
+
+For most of the last century, "good teaching" was scarce because four ingredients took years to compound: deep knowledge, cross-domain composition, error-pattern intuition, and practice reps. Generative AI is equalizing all four at the speed of a software release — so professional scarcity migrates to areas AI cannot equalize as fast.
+
+We're betting on **two axes**:
+
+- **Cognitive depth** — a defensible point of view in a domain, built through the loop of using AI to interrogate, structure, and pressure-test what you already know.
+- **Public influence** — a multi-year archive of work others have followed, which compounds slowly and cannot be retroactively manufactured.
+
+Hiring signals are shifting. Alongside credentials, employers are increasingly reading public archives — code, posts, recorded talks, courses you've shipped — and how you collaborate with AI in real workflows. This pattern is showing up earliest in AI-native roles, but the signal generalizes outward.
+
+Herline is built to grow **both axes in the same workflow**:
+
+- Every deep-read fills the personal knowledge graph → depth.
+- Every Prep export becomes a public artifact → influence.
+- The pipeline runs as a daily compounding loop, not a one-shot generator.
+
+This is also why generic "AI productivity" tools and stand-alone "speaking" programs each address only half of the picture. The two are best developed together.
+
+📖 Longer version with falsification conditions: [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md).
+
+---
+
 ## The 7-Layer Pipeline
 
 ```
@@ -176,8 +199,8 @@ The deconstruction and generation engines are proprietary. This repository exist
 - Sharing & collaboration primitives
 
 ### 🚧 In Progress (Q2 2026)
-- GCYSC — Global Chinese Youth Speaking Competition school partnerships
-- Domestic GTM: city partner program V1
+- **GCYSC** — Global Chinese Youth Speaking Tour, international school program (overseas-only; out of scope for domestic K–12 admissions)
+- City partner program V1 for the AI-literacy curriculum
 - Marketing agent (Boost) for automated multi-platform distribution
 - Sentiment & citation tracking for brand visibility in AI search
 
