@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Herline</h1>
+<h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>The AI engine for super individuals.</strong><br>
+  <strong>The AI engine for super individuals — code × media dual-core infrastructure.</strong><br>
   Turn your expertise into <b>keynotes</b>, <b>pitch decks</b>, and <b>full courses</b>.
 </p>
 
@@ -33,7 +33,7 @@
 
 ## What is Herline
 
-**Herline** is a vertical AI engine built for the **12M+ solopreneurs, independent consultants, and knowledge creators** who have deep expertise but struggle to turn it into external deliverables.
+**Herline (赫能)** is a vertical AI engine built for the **12M+ solopreneurs, independent consultants, and knowledge creators** who have deep expertise but struggle to turn it into external deliverables.
 
 Unlike generic AI tools (ChatGPT, Claude, Notion AI) that help you *write words*, Herline runs a **7-layer pipeline** that turns your professional knowledge into the three forms of outbound expression every super individual actually uses — **speeches to deliver on stage, pitch decks to raise capital, and courses to teach paying students**.
 
@@ -58,6 +58,11 @@ The mission: **make every knowledge worker a viable one-person company.**
 
 ## Why Now — The Two-Axis Thesis
 
+> "Code and media are permissionless leverage."
+> — Naval Ravikant, 2018
+
+Naval split wealth leverage into Labor / Capital / Code / Media. The latter two are permissionless — you don't need a boss's approval to write code or publish work. Herline operationalizes this observation into a workflow: **a code × media dual-core infrastructure on the company side, growing cognitive-depth × public-influence dual-axis capability on the user side**.
+
 For most of the last century, "good teaching" was scarce because four ingredients took years to compound: deep knowledge, cross-domain composition, error-pattern intuition, and practice reps. Generative AI is equalizing all four at the speed of a software release — so professional scarcity migrates to areas AI cannot equalize as fast.
 
 We're betting on **two axes**:
@@ -75,7 +80,7 @@ Herline is built to grow **both axes in the same workflow**:
 
 This is also why generic "AI productivity" tools and stand-alone "speaking" programs each address only half of the picture. The two are best developed together.
 
-📖 Longer version with falsification conditions: [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md).
+📖 Longer version with falsification conditions: English [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md) · 中文 [`docs/two-axis-thesis.zh-CN.md`](docs/two-axis-thesis.zh-CN.md).
 
 ---
 
@@ -270,7 +275,7 @@ Core product feature requests go to `hi@herline.vip` or [herline.vip/feedback](h
 
 ## About
 
-Herline is built by a small team operating out of **East Asia and beyond**, shipping production infrastructure for a global audience of super individuals.
+Herline (赫能) is built by a small team operating out of **East Asia and beyond**, shipping production infrastructure for a global audience of super individuals.
 
 We believe the defining challenge of the next decade isn't "can AI generate content" — it's **can every knowledge worker turn their expertise into products that compound**. Herline is our answer.
 

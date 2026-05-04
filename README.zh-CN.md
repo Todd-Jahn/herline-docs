@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Herline</h1>
+<h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>超级个体的 AI 引擎</strong><br>
+  <strong>超级个体的 AI 引擎 — 代码 × 媒体 双核基础设施</strong><br>
   把你的专业变成<b>演讲稿</b>、<b>Pitch Deck</b>、<b>完整课程</b>。
 </p>
 
@@ -33,7 +33,7 @@
 
 ## Herline 是什么
 
-**Herline — 把超级个体的专业变成可演、可讲、可传播的 AI 引擎（演讲稿 / Pitch Deck / 完整课程）**
+**Herline (赫能) — 把超级个体的专业变成可演、可讲、可传播的 AI 引擎（演讲稿 / Pitch Deck / 完整课程）**
 
 中国有 **1200 万+** 一人公司从业者。他们不缺专业积累，缺的是**把专业变成对外可交付产物**的能力——演讲稿、Pitch Deck、完整课程。
 
@@ -60,6 +60,11 @@ Herline 不是又一个 AI 写作工具。它是一条**垂直管线**，专门�
 
 ## 为什么是现在 —— 双核论
 
+> "Code and media are permissionless leverage."
+> — Naval Ravikant, 2018
+
+Naval 把财富杠杆分成 Labor / Capital / Code / Media——后两者是无需许可的差异化窗口,不需要老板批准就能写代码、发表作品。Herline 把这一观察落到工作流:**公司侧建「代码 + 媒体」双核基础设施,用户侧沉淀「认知深度 × 公开影响」双轨能力**。
+
 过去几十年里，"好老师"之所以稀缺，是因为四个能力要靠多年才能沉淀：知识深度、跨学科组合、错题模式直觉、教学练习量。生成式 AI 现在以软件迭代的速度抹平这四点——专业稀缺性会迁移到 AI 短期内难以抹平的地方。
 
 我们押注两个维度：
@@ -77,7 +82,7 @@ Herline 的设计是让**两个维度在同一个工作流里同步生长**：
 
 这也是为什么通用 AI 工具与单独的演讲训练各自只覆盖一半——两者最好同步发展。
 
-📖 长版（含证伪条件）：[`docs/two-axis-thesis.md`](docs/two-axis-thesis.md)
+📖 长版（含证伪条件）：英文 [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md) · 中文 [`docs/two-axis-thesis.zh-CN.md`](docs/two-axis-thesis.zh-CN.md)
 
 ---
 
@@ -277,7 +282,7 @@ Herline 的设计是让**两个维度在同一个工作流里同步生长**：
 
 ## 关于我们
 
-Herline 由一个小团队构建，**立足东亚、面向全球**，为超级个体搭建生产级基础设施。
+Herline (赫能) 由一个小团队构建，**立足东亚、面向全球**，为超级个体搭建生产级基础设施。
 
 我们认为未来十年的决定性命题不是"AI 能不能生成内容"，而是**每一位知识工作者能否把专业变成可持续复利的产品**。Herline 是我们的答案。
 

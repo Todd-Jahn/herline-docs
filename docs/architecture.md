@@ -78,15 +78,15 @@ Each block includes: source location, confidence signal, related-block links, an
 
 ### 6. Prep
 
-**Role**: Delivery-format layer. Takes finished courses and transforms them into presentable deliverables.
+**Role**: Delivery-format layer. Takes finished courses and transforms them into presentable deliverables. Operated by the **Hera** agent (see [Glossary](glossary.md)).
 
-**Export formats**:
+**Export formats** (production-stable since 2026 Q1):
 - **PDF keynote** with timing annotations for stage delivery
 - **PPTX** template with structured talking points per slide
 - **DOCX** teaching materials for classroom use
 - Quote / highlight cards for social distribution
 
-**Why it matters**: course content ≠ deliverable content. Prep adds the affordances speakers and teachers actually need.
+**Why it matters**: course content ≠ deliverable content. Prep adds the affordances speakers and teachers actually need — the layer between "the course exists" and "you can walk on stage with it tomorrow."
 
 ### 7. Boost
 

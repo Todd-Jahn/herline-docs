@@ -2,6 +2,17 @@
 
 Quick reference for Herline-specific terminology. Terms appear in conceptual groups.
 
+## Brand Names
+
+### Herline
+The product name in English. Derived from "her" (for the female-led founding team and the predominantly female creator audience the product first served) + "line" (the vertical pipeline metaphor).
+
+### 赫能 (Hè Néng)
+The Chinese brand name. "赫" carries a sense of being conspicuously present in public; "能" means capability. The pair maps directly to the two-axis thesis — visible influence × built-up capability.
+
+### 双核基础设施 (Dual-Core Infrastructure)
+Internal positioning vocabulary for what Herline builds — "code + media" infrastructure on the company side, mirrored as "cognitive depth × public influence" capability on the user side. Roots in Naval Ravikant's wealth-leverage framework. See [Two-Axis Thesis](two-axis-thesis.md).
+
 ## Pipeline Layers
 
 ### Assessment
@@ -24,6 +35,22 @@ Delivery-format layer. Exports courses into presentable deliverables — PDF key
 
 ### Boost
 Multi-platform distribution layer. Adapts content for platform-specific formats (short-form video scripts, social posts, podcast adaptations, newsletter formats).
+
+## Pipeline Agents
+
+The pipeline is operated by named conversational agents, each scoped to one production phase. Users interact with them by name in the product UI.
+
+### Helena
+The main routing & dialog agent across Atlas (planning) and Library (deep-read). Handles intent detection, multi-turn conversation, and routing to specialized skills (D2B / RAG / recommendation). Most users meet Herline through Helena first.
+
+### Holly
+The course strategy agent operating in Studio. Takes a user's professional profile + selected knowledge blocks and proposes course briefs — positioning, audience, learning arc, unit structure. Holly hands off to the B2C generation engine once the brief is locked.
+
+### Hera
+The delivery-prep agent operating in Prep. Turns finished courses into stage-ready deliverables — keynote PDFs with timing notes, PPTX templates with structured talking points, DOCX teaching materials. Hera is the layer between "course exists" and "you can actually walk on stage with it".
+
+### Hylia
+The distribution agent operating in Boost. Adapts content for platform-specific formats — long-form social posts, short-form video scripts, podcast adaptations, newsletter framings. Hylia is what closes the public-influence loop on the two-axis thesis.
 
 ## Knowledge Unit Types
 
@@ -83,11 +110,11 @@ For schools, training organizations, and institutions needing curriculum matrice
 
 ## Related Projects & IPs
 
-### GCYSC — Global Chinese Youth Speaking Competition
-A school-partnership initiative where Herline provides the knowledge productization infrastructure for competition preparation (keynote development, rehearsal tools, delivery materials).
+### GCYSC — Global Chinese Youth Speaking Tour
+An overseas-only school-partnership initiative where Herline provides the knowledge-productization infrastructure for partner schools running Chinese-language speaking programs — keynote development, rehearsal tools, delivery materials, cross-cohort archives. **Not connected to mainland-China admissions or credential systems.**
 
-### 超演无界
-The unified brand umbrella covering Herline's domestic speaking-program partnerships and GCYSC globally. Leverages Herline's pipeline to turn competition preparation into a knowledge-asset-building experience.
+### 超演无界 (Chao Yan Wu Jie)
+The unified brand umbrella covering Herline's speaking-program collaborations. The Chinese-domestic version operates under the "巡回" (tour) framing for educational compliance; the international version is GCYSC. Leverages Herline's pipeline to turn speaking-program preparation into knowledge-asset-building rather than ephemeral coaching.
 
 ---
 
