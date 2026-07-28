@@ -26,10 +26,10 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Helvetica Neue', sans-serif">
     <text x="480" y="300" font-size="124" font-weight="700" fill="#ffffff" letter-spacing="-4">Herline</text>
-    <text x="480" y="368" font-size="42" font-weight="500" fill="#e2e8f0" letter-spacing="-0.4">The AI engine for super individuals.</text>
-    <text x="480" y="418" font-size="26" font-weight="400" fill="#94a3b8" letter-spacing="-0.1">Turn expertise into keynotes · pitch decks · full courses.</text>
+    <text x="440" y="368" font-size="34" font-weight="500" fill="#e2e8f0" letter-spacing="-0.4">An AI workspace for judgment and expression.</text>
+    <text x="440" y="418" font-size="24" font-weight="400" fill="#94a3b8" letter-spacing="-0.1">Read deeply · create with evidence · rehearse your voice.</text>
 
-    <g transform="translate(480, 540)">
+    <g transform="translate(440, 540)">
       <circle cx="0" cy="-7" r="3" fill="#818cf8"/>
       <text x="14" y="0" font-size="22" font-weight="500" fill="#a5b4fc" letter-spacing="0.3">herline.vip</text>
     </g>

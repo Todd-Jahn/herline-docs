@@ -1,31 +1,27 @@
 <p align="center">
-  <a href="https://herline.vip">
-    <img src="assets/logo.svg" height="96" alt="Herline">
-  </a>
+  <a href="https://herline.vip"><img src="assets/logo.svg" height="96" alt="Herline"></a>
 </p>
 
 <h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>超级个体的 AI 引擎 — 代码 × 媒体 双核基础设施</strong><br>
-  把你的专业变成<b>演讲稿</b>、<b>Pitch Deck</b>、<b>完整课程</b>。
+  <strong>建立判断，清晰表达，把专业变成看得见的成果。</strong><br>
+  集深度阅读、创课讲稿、分发、研究与语音排练于一体的 AI 工作台。
 </p>
 
 <p align="center">
-  <a href="https://herline.vip"><img src="https://img.shields.io/badge/官网-herline.vip-5b8def?style=flat-square" alt="官网"></a>
-  <img src="https://img.shields.io/badge/状态-生产中-22c55e?style=flat-square" alt="状态">
+  <a href="https://herline.vip"><img src="https://img.shields.io/badge/产品-herline.vip-5b8def?style=flat-square" alt="产品"></a>
+  <img src="https://img.shields.io/badge/状态-已上线-22c55e?style=flat-square" alt="状态：已上线">
   <img src="https://img.shields.io/badge/语言-中文%20%7C%20EN-6366f1?style=flat-square" alt="语言">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/文档-CC%20BY%204.0-f59e0b?style=flat-square" alt="许可"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/文档-CC%20BY%204.0-f59e0b?style=flat-square" alt="文档许可"></a>
 </p>
 
 <p align="center">
-  <a href="#herline-是什么">Herline 是什么</a> •
-  <a href="#7-层管线">管线</a> •
-  <a href="#给谁用">给谁用</a> •
-  <a href="#使用场景">场景</a> •
-  <a href="#架构">架构</a> •
-  <a href="#发布路线">路线图</a> •
-  <a href="#faq-常见问题">FAQ</a> •
+  <a href="#herline-是什么">产品</a> ·
+  <a href="#产品地图">产品地图</a> ·
+  <a href="#服务对象">服务对象</a> ·
+  <a href="#近期公开进展">近期进展</a> ·
+  <a href="#信任与边界">信任边界</a> ·
   <a href="README.md">English</a>
 </p>
 
@@ -33,265 +29,88 @@
 
 ## Herline 是什么
 
-**Herline (赫能) — 把超级个体的专业变成可演、可讲、可传播的 AI 引擎（演讲稿 / Pitch Deck / 完整课程）**
+Herline 是训练**判断力与表达力**的 AI 工作台。AI 负责加速执行，人负责确定方向、核验证据并对最终结果承担责任。
 
-中国有 **1200 万+** 一人公司从业者。他们不缺专业积累，缺的是**把专业变成对外可交付产物**的能力——演讲稿、Pitch Deck、完整课程。
+当前公开产品把四条实用链路放在同一处：
 
-Herline 不是又一个 AI 写作工具。它是一条**垂直管线**，专门解决"从懂到能讲"之间的工作流断裂。
+- **深度阅读**：把书籍和长文档转成可复用知识与自己的判断。
+- **创课与讲稿**：从一个观点发展出课程策划、教学脚本、演讲稿和 Presentation。
+- **分发**：把一份经确认的观点适配到不同渠道，并从真实反馈中继续修正。
+- **语音排练**：在真实谈判、路演、面试或重要对话前反复练习。
 
-🌐 **官网：[herline.vip](https://herline.vip)** — 有免费试用
+Herline 面向青少学员及监护人、成人专业人士、青少老师，以及经邀请的主理人与合作方；不同人群使用相互独立、受权限控制的产品路径。具体可用范围以账户、角色、地区和实时产品页面为准。
 
----
+「培养 AI 抗体」是 Herline 的产品主张：当 AI 接管更多标准化工作，判断取舍、清晰表达、建立信任和对结果负责会更有价值。
 
-## 为什么需要 Herline
+🌐 当前产品与实时方案见 [herline.vip](https://herline.vip)。
 
-聪明人一年读 50 本书，还是讲不出自己学过什么。不是书的问题，而是**从"我读过"到"我能教别人"之间，一整条工作流是断的**：
+## 产品地图
 
-- **解构** —— 知识网络拆成可复用的块（不是摘要）
-- **重组** —— 按学习弧线重新排序（不是大纲堆砌）
-- **交付** —— 用对的媒介表达（演讲稿 ≠ 课程 ≠ 短视频）
-- **沉淀** —— 存入个人知识图谱（不是聊完就忘）
+Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称不能跨层误用。
 
-通用 AI 工具在第一步就断了。Herline 是那条把所有步骤接起来的管线。
+| 用户界面 | Agent / 工作流职责 | 用户得到什么 |
+| --- | --- | --- |
+| Assessment 测评 | 建立画像与起点 | 更清楚的学习或创作起点 |
+| Atlas 找书 | Helena 讨论并规划阅读路径 | 更合适的选材与学习方向 |
+| Library 读书 | D2B 深度解构工作流 | 可追溯的知识块与跨来源理解 |
+| Studio 创课 | Holly 形成课程策划 | 受众、学习弧线、结构与交付方案 |
+| Courses 课程 | B2C 课程生成工作流 | 结构化课程、脚本、音频与评估题 |
+| Prep 讲稿 | Hera 整理交付资产 | 演讲稿、教案及 PDF/PPTX/DOCX 导出 |
+| Assistant 助手 | Harmon 支持语音排练 | 在真实对话前练习、反馈和修正 |
+| Boost 分发 | Hylia 在角色授权内支持分发 | 基于已确认材料形成渠道表达 |
+| Hypatia 行研 | 研究与证据工作流 | 版本化研究、决策支持与可恢复任务 |
 
-**使命**：让每一位知识工作者都能成为真正可持续的一人公司。
+这些能力可以独立使用；上表不表示每个账户都拥有全部入口。
 
----
+详见[公开产品架构](docs/architecture.md)与[术语表](docs/glossary.md)。
 
-## 为什么是现在 —— 双核论
+## 服务对象
 
-> "Code and media are permissionless leverage."
-> — Naval Ravikant, 2018
+| 服务对象 | 典型需求 | 主要路径 |
+| --- | --- | --- |
+| 青少学员与监护人 | 长期形成判断力、表达力和可见作品 | 测评、找书、读书、课程、语音排练 |
+| 成人专业人士 | 把多年经验重新变成决定、表达、课程和市场成果 | 深读、创课、讲稿、排练与分发 |
+| 青少老师 | 借助 AI 备课和交付，同时保留专业判断 | Pro 创作、研究与交付工具 |
+| 经邀请的主理人与合作方 | 在授权范围内运营项目和分发成果 | 角色专属工作区与经营工具 |
 
-Naval 把财富杠杆分成 Labor / Capital / Code / Media——后两者是无需许可的差异化窗口,不需要老板批准就能写代码、发表作品。Herline 把这一观察落到工作流:**公司侧建「代码 + 媒体」双核基础设施,用户侧沉淀「认知深度 × 公开影响」双轨能力**。
+社区身份、合作关系或项目参与不会自动产生数据访问权，也不会自动解锁受限产品能力。
 
-过去几十年里，"好老师"之所以稀缺，是因为四个能力要靠多年才能沉淀：知识深度、跨学科组合、错题模式直觉、教学练习量。生成式 AI 现在以软件迭代的速度抹平这四点——专业稀缺性会迁移到 AI 短期内难以抹平的地方。
+## 近期公开进展
 
-我们押注两个维度：
+本仓库于 2026 年 7 月按实时产品、当前产品战略和已发布能力证据完成刷新。
 
-- **认知深度** —— 在一个领域里能站得住脚的观点，靠"用 AI 反复盘问、结构化、压力测试自己的认知"这条循环建起来。
-- **公开影响** —— 一份长期被他人追随过的作品档案，慢慢累积，无法事后补造。
+- Library 已支持由 Helena 驱动的语义发现与对比推荐。
+- Hypatia Pro 研究工作区支持版本化项目、重新运行及符合条件的断点恢复。
+- Plus 新售与角色专属主理人工作区已面向其对应人群发布。
+- 成人公开入口已收敛为深度阅读、创课讲稿、分发与语音排练四条主链路。
 
-招聘信号也在迁移。雇主在凭证之外开始读公开档案——代码、文章、演讲录像、做过的课程——以及候选人在真实工作流里跟 AI 协作的方式。这个变化最先在 AI-native 岗位浮现，适用范围在向外扩散。
+仍在验证的功能、内部 shadow 系统、实验性集成和未发布项目不会在本仓库中写成当前可用能力。
 
-Herline 的设计是让**两个维度在同一个工作流里同步生长**：
+## 信任与边界
 
-- 每次深读都在沉淀个人知识图谱 → 深度
-- 每次 Prep 导出都形成一份公开作品 → 影响
-- 整条管线是一个日常复利循环，不是一次性生成器
+- **人对结果负责**：AI 输出可能不完整或错误；对外发布、教学交付、商业使用和高影响决定必须人工核验。
+- **访问受到约束**：产品可见性与数据访问取决于账户、角色、目的和明确授权。
+- **私有内容默认不公开**：分享必须由用户主动发起。
+- **未成年人和语音数据有额外控制**：适用场景需监护人授权和专项语音说明。
+- **实时政策优先于本摘要**：以网站上的[隐私政策](https://herline.vip/legal/privacy)、[用户协议](https://herline.vip/legal/terms)和 AI 内容政策为准。
 
-这也是为什么通用 AI 工具与单独的演讲训练各自只覆盖一半——两者最好同步发展。
+本仓库只包含公开文档、示例和社区资源，不包含 Herline 源码，也不披露内部模型路由、供应商拓扑、feature flags、凭据、客户数据、运维手册、单位经济或未发布路线图。详见[公开文档边界](docs/public-documentation-policy.md)。
 
-📖 长版（含证伪条件）：英文 [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md) · 中文 [`docs/two-axis-thesis.zh-CN.md`](docs/two-axis-thesis.zh-CN.md)
+## 仓库范围
 
----
+- [`docs/architecture.md`](docs/architecture.md)：公开产品架构与责任边界
+- [`docs/glossary.md`](docs/glossary.md)：当前产品术语
+- [`docs/faq.md`](docs/faq.md)：产品与文档常见问题
+- [`docs/data-handling.md`](docs/data-handling.md)：数据处理通俗说明；正式法律政策仍为权威
+- [`examples/`](examples/)：说明性公开示例，不构成生产性能或服务承诺
 
-## 7 层管线
+Herline 核心引擎为专有软件。本仓库文档采用 [CC BY 4.0](LICENSE)；该许可不覆盖产品源码。
 
-```
-    ┌─────────────┐
-    │  Assessment │  →  沉淀你的专业画像
-    │     测评    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Atlas    │  →  个性化书籍与内容规划
-    │     找书    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   Library   │  →  把书解构成可复用的知识块
-    │  D2B 深读   │      （观点 / 概念 / 方法）
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Studio   │  →  基于你的知识图谱策划课程
-    │     创课    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   Courses   │  →  自动生成完整课程
-    │  B2C 课程   │      （脚本 + 音频 + 评估题）
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │     Prep    │  →  导出演讲稿 / Pitch Deck / 教案 / PPT
-    │     备讲    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Boost    │  →  多平台分发内容资产
-    │     增流    │
-    └─────────────┘
-```
+## 贡献与联系
 
-每一层都能独立使用，也可以端到端串——**一本书输入，一整套可交付资产输出**。
+欢迎修正文档和提交公开案例，参见 [CONTRIBUTING.md](CONTRIBUTING.md)。产品故障和账户问题请使用产品内客服或发送至 `customer-support@herline.vip`。
 
-📖 架构深入说明见 [`docs/architecture.md`](docs/architecture.md)。
-
----
-
-## 给谁用
-
-| 用户画像 | 核心痛点 | Herline 提供的解法 |
-|---|---|---|
-| **独立咨询顾问** | 10 年经验，每次提案都要从头组装 | 个人知识图谱 → 可调用的知识块 |
-| **内容创作者 / 讲师** | 准备一门课 2-4 周 | D2B → Studio → B2C 管线压缩到 1-2 天 |
-| **一人公司 / 超级个体** | Pitch Deck 消耗的精力多过主业 | 专业 + 一本书 → Pitch Deck 可迭代版 |
-| **教育机构 / 学校** | 一年要做 10 门课，只能做 2 门 | 一位老师的专业扩展成完整课程矩阵 |
-
----
-
-## Herline 的独特之处
-
-- 🧠 **持续积累的个人知识图谱** —— 每读一本书、每做一次深读、每做一门课都在沉淀。跨书 RAG 让你在知识交汇处看到人工发现不了的连接。
-- 🏗️ **端到端垂直管线** —— 不是又一个 AI 对话框。7 个专门化的层，每层对应一个具体的工作流断点。
-- 🌐 **中英双语原生** —— 中文和英文都是一级公民，不是后补的翻译层。
-- 📦 **输出可交付物，不是文档** —— PDF 演讲稿带时长标注，PPTX 模板带演讲结构，课程评估题直接可用。
-- 🎯 **专为超级个体设计** —— 1200 万+ 一人公司、领域专家、教育者。不服务团队，不服务大企业（暂不）。
-- 🔐 **数据所有权** —— 你的知识库属于你。系统会越用越聪明，但我们从不重新打包你的内容。详见 [`docs/data-handling.md`](docs/data-handling.md)。
-
----
-
-## 使用场景
-
-### 📣 书 → 演讲稿
-**输入**：一本你读过的书 + 一段个人背景
-**输出**：30-45 分钟演讲稿 + 时长标注 + PPT 模板 + 金句卡片
-**典型耗时**：端到端约 30 分钟
-
-👉 [查看完整案例](examples/book-to-keynote/)
-
-### 💼 专业 → Pitch Deck
-**输入**：你的专业画像 + 目标受众
-**输出**：15-20 页 pitch deck + 叙事弧线 + 演讲者备注
-**典型耗时**：端到端约 45 分钟
-
-### 🎓 书 → 完整课程
-**输入**：一本书 + 目标学员画像
-**输出**：3-7 单元课程，含脚本、TTS 音频、评估题
-**典型耗时**：端到端 1-2 小时
-
-### 📚 持续积累的知识图谱
-每一次深读、每一门课、每一份 Pitch 都持续沉淀到你的个人知识库。跨书 RAG 自动浮现你手工找不到的连接。**用得越久，Herline 越懂你**。
-
----
-
-## 架构
-
-高层视角：
-
-| 层 | 技术栈 |
-|---|---|
-| 前端 | React 18 · Next.js 16 · TypeScript · Tailwind CSS |
-| 后端 | FastAPI · SQLAlchemy (async) · Python 3.11 |
-| AI 编排 | **LangGraph 1.0** —— 多步骤工作流跨专业 Agent 协同 |
-| 数据 | MySQL 8 (元数据) · Redis 7 (缓存 / 队列) · Milvus 2.6 (向量) |
-| 异步处理 | **ARQ** 基于 Redis Streams —— 长耗时 D2B / B2C 任务 |
-| 语音合成 | 云端 TTS 用于课程音频生成 |
-
-引擎内部：
-- LangGraph 编排的多步骤管线，带状态断点
-- 双 LLM 策略：生成模型做合成，推理模型做结构化输出
-- 跨书 RAG 基于 Milvus，自研 embedding 策略
-- Token 感知成本管理，月处理 1000 万+ token 量级
-- 结构化知识块 schema（Claims / Concepts / Methods），支持跨书组合
-
-**解构与生成引擎是专有软件**。本仓库只提供公开文档，不包含产品源码。详见 [`docs/architecture.md`](docs/architecture.md)。
-
----
-
-## 发布路线
-
-### ✅ 已发布（2026 Q1）
-- 7 层管线—— 生产就绪
-- Prep 导出：PDF / PPTX / DOCX
-- 跨书 RAG 基于个人知识图谱
-- 选修课购买
-- 分享与协作基础能力
-
-### 🚧 进行中（2026 Q2）
-- **GCYSC** —— 全球华语青少演讲巡回，海外学校合作项目（不涉及国内升学）
-- 城市合伙人计划 V1（AI 素养课程线）
-- Marketing agent（Boost）自动化多平台分发
-- AI 搜索中的品牌可见度监测
-
-### 🔭 探索中（2026 Q3+）
-- **MCP Server** —— Claude / ChatGPT / Cursor 原生集成
-- **公开 OpenAPI** —— 让外部工具集成 Herline
-- GPT Store 上架 "Course Planner by Herline"
-- 国际化扩展（英 / 西 / 日）
-- 创作者变现层
-
----
-
-## FAQ 常见问题
-
-### Herline 开源吗？
-**不开源**。本仓库只是公开文档与社区资源。核心解构与生成引擎是 IP 护城河，不开源。未来可能开源一些外围模块（如 MCP 集成、OpenAPI spec）。
-
-### Herline 和 ChatGPT / Claude 有什么不同？
-通用 AI 工具是一次性的——你问完它答，上下文就消散了。Herline 是**带持久状态的管线**——你的个人知识库越用越大。长期用户的产出效率会远高于 ad-hoc 使用 AI 的人，靠的是复利效应。
-
-### 支持英文内容吗？
-支持。管线是真正的中英双语原生，不是翻译层。可以深读英文书、生成英文课程、导出英文演讲稿。
-
-### 可以用于教育机构 / 学校课程吗？
-可以。机构版支持课程矩阵与教师协作。一位老师的专业经验可以扩展成完整课程矩阵。机构合作联系 `partners@herline.vip`。
-
-### 数据所有权模式是什么？
-你的知识库属于你。我们不打包你的内容，不用你的私有数据训练模型，不出售数据。你可以随时导出知识图谱。详见 [`docs/data-handling.md`](docs/data-handling.md)。
-
-### 一次生成典型要多久？
-- **D2B 深度解构**：每本书 8-15 分钟（Claims / Concepts / Methods 抽取）
-- **B2C 课程生成**：3-7 单元带音频的课程，30-90 分钟
-- **Prep 导出**：每个格式 2 分钟以内
-- 长耗时任务异步执行，可批量排队
-
-### 有免费试用吗？
-有。[herline.vip](https://herline.vip) 注册——免费额度包括测评 + 首本深读 + 一次课程生成。
-
-### 隐私与企业合规？
-完整隐私政策见 [herline.vip/privacy](https://herline.vip/privacy)。企业级合规能力（SSO / 审计日志 / 数据驻留）在高级版本，联系 `partners@herline.vip`。
-
-更多问题见 [`docs/faq.md`](docs/faq.md) 扩展版 FAQ。
-
----
-
-## 相关资源
-
-- 🌐 **产品官网** —— [herline.vip](https://herline.vip)
-- 📖 **文档目录** —— [`docs/`](docs/)（架构 / 术语 / FAQ / 数据处理）
-- 🏛️ **架构说明** —— [`docs/architecture.md`](docs/architecture.md)
-- 📚 **术语表** —— [`docs/glossary.md`](docs/glossary.md)
-- 🎓 **案例展示** —— [`examples/`](examples/)
-- 📋 **Awesome Super Individual** —— [超级个体资源精选](https://github.com/Todd-Jahn/awesome-super-individual)（姊妹清单，CC0 公共领域）
-- 💬 **社区讨论** —— [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
-- 📧 **商务联系** —— hi@herline.vip
-- 🤝 **合作与机构咨询** —— partners@herline.vip
-
----
-
-## 贡献
-
-欢迎翻译、文档改进、案例贡献。详见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
-
-产品功能建议请发送到 `hi@herline.vip` 或 [herline.vip/feedback](https://herline.vip)——不通过本仓库提交。
-
----
-
-## 关于我们
-
-Herline (赫能) 由一个小团队构建，**立足东亚、面向全球**，为超级个体搭建生产级基础设施。
-
-我们认为未来十年的决定性命题不是"AI 能不能生成内容"，而是**每一位知识工作者能否把专业变成可持续复利的产品**。Herline 是我们的答案。
-
-**使命**：让每一位知识工作者成为真正可持续的一人公司——通过填平"他们知道的"与"他们能交付的"之间的工作流断裂。
-
----
-
-## 许可
-
-本仓库内容（文档、图表、案例、资源）采用 **[CC BY 4.0](LICENSE)**。你可以自由分享和改编，需注明出处。
-
-**Herline 核心引擎为专有软件**，不包含在本仓库中。产品服务条款见 [herline.vip/terms](https://herline.vip/terms)。
+- 产品：[herline.vip](https://herline.vip)
+- 公开文档问题：[GitHub Issues](https://github.com/Todd-Jahn/herline-docs/issues/new/choose)
+- 隐私与法律：`legal@herline.vip`
+- 安全报告：`security@herline.vip`

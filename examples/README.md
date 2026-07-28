@@ -1,10 +1,11 @@
 # Examples
 
-Curated showcases of what Herline produces. Each example shows an end-to-end use case — raw input, polished output, and notes on the generation process.
+Editorial examples of the kinds of learning and expression artifacts Herline workflows can support. They are illustrative samples, not customer case studies, live-run benchmarks, or guarantees of current account access.
 
 ## Current Examples
 
 ### 📣 [Book → Keynote](book-to-keynote/)
+
 **Input**: *Thinking, Fast and Slow* by Daniel Kahneman + a product manager's bio
 **Output**: 30-minute keynote titled *"Why Your Users Don't Think What You Think They Do: Cognitive Biases in Product Decisions"*
 **Audience**: product managers, designers, and founders
@@ -13,12 +14,12 @@ Curated showcases of what Herline produces. Each example shows an end-to-end use
 
 Each example folder contains:
 
-```
+```text
 example-name/
 ├── README.md              — What this example demonstrates, target audience
-├── input.md               — The raw inputs provided to Herline
-├── output-<format>.md     — The Herline output (lightly polished, showcase quality)
-└── generation-notes.md    — Timing, human edits applied, lessons learned
+├── input.md               — Synthetic or explicitly authorized inputs
+├── output-<format>.md     — Illustrative artifact with an evidence boundary
+└── generation-notes.md    — Assistance, editing, verification, availability
 ```
 
 ## Contributing an Example
@@ -31,16 +32,12 @@ Have you used Herline to produce something noteworthy? We'd love to feature it.
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for details.
 
-## A Note on Polish
+## How to read these examples
 
-The outputs shown here have been **lightly edited for publication quality** — roughly 20–30% human adjustment after generation (typos, flow, minor structural tweaks). Raw Herline output is coherent and usable, but publishable material always benefits from the author's voice in the final pass.
+Examples may combine synthetic inputs, AI-assisted drafts, and human editing. They should be evaluated as editorial demonstrations, not as measured evidence of speed, quality, conversion, or business outcomes.
 
-This ratio is important to understand: **Herline isn't about replacing your voice — it's about getting you to "my voice, my expertise, delivered at speed."** The human edit is the signature, not the crutch.
+Users remain responsible for checking sources, permissions, factual accuracy, suitability, and final voice before sharing any artifact.
 
-## Roadmap
+## Future contributions
 
-Examples planned for future contributions — open an [issue](https://github.com/Todd-Jahn/herline-docs/issues/new/choose) if you'd like to help author one:
-
-- 💼 **Expertise → Pitch Deck** — a solo founder's deck for Series A
-- 🎓 **Book → Full Course** — a 5-unit course on behavioral economics
-- 🌐 **Bilingual Deep Read** — English book, Chinese course generation
+Open an [issue](https://github.com/Todd-Jahn/herline-docs/issues/new/choose) before contributing a new example. Use synthetic or explicitly authorized inputs and disclose the level of AI assistance and human editing without presenting estimates as product benchmarks.
