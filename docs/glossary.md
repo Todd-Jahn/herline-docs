@@ -1,120 +1,132 @@
 # Glossary
 
-Quick reference for Herline-specific terminology. Terms appear in conceptual groups.
+Public vocabulary for Herline. This glossary distinguishes product surfaces, Agents, workflows, artifacts, and audience roles.
 
-## Brand Names
+## Brand and product thesis
 
-### Herline
-The product name in English. Derived from "her" (for the female-led founding team and the predominantly female creator audience the product first served) + "line" (the vertical pipeline metaphor).
+### Herline / 赫能
 
-### 赫能 (Hè Néng)
-The Chinese brand name. "赫" carries a sense of being conspicuously present in public; "能" means capability. The pair maps directly to the two-axis thesis — visible influence × built-up capability.
+The product and brand name. Herline helps people strengthen judgment and expression and turn professional knowledge into visible work.
 
-### 双核基础设施 (Dual-Core Infrastructure)
-Internal positioning vocabulary for what Herline builds — "code + media" infrastructure on the company side, mirrored as "cognitive depth × public influence" capability on the user side. Roots in Naval Ravikant's wealth-leverage framework. See [Two-Axis Thesis](two-axis-thesis.md).
+### AI resistance / AI 抗体
 
-## Pipeline Layers
+Herline’s public product thesis: when AI absorbs standardized work, human judgment, expression, trust, and responsibility become more valuable. It is a capability metaphor, not a medical claim.
+
+### Code × media
+
+A company-level capability thesis: software helps people build and reuse knowledge; media and public work make judgment visible. It is not a claim that all media programs or internal systems are available as product features.
+
+## Product surfaces and workflows
 
 ### Assessment
-Onboarding layer that captures the user's professional profile — expertise domains, learning goals, communication preferences, target-audience profile. Drives personalization throughout the pipeline.
+
+A profile and starting-point experience used to personalize relevant learning or creation paths.
 
 ### Atlas
-Recommendation / planning layer. Plans personalized book and content paths based on the user's Assessment profile. Conversational: users interact with Atlas as a knowledge planner.
 
-### Library (D2B)
-"Deep-to-Book." Deconstructs books into structured knowledge blocks (Claims / Concepts / Methods). Not summarization — structured extraction with citation traceability.
+The reading and knowledge-planning surface. Helena powers the conversational experience; Atlas is not itself an Agent.
+
+### Library
+
+The reading surface where users consume books and deep-reading artifacts.
+
+### D2B
+
+Herline’s deep-reading and structured-deconstruction workflow. It produces traceable claims, concepts, and methods; it is a workflow, not an Agent.
 
 ### Studio
-Course strategy layer. Takes knowledge blocks (from the user's graph) and designs a course blueprint — units, learning arc, block-to-unit mapping, assessment approach.
 
-### Courses (B2C)
-"Book-to-Course." Generates full course content from a Studio blueprint — scripts, audio narration, assessments. Async-executed because generation can take 30–90 minutes for a full course.
+The course-planning surface. Holly helps develop a course brief before course generation begins.
+
+### Courses / B2C
+
+Courses is the learning surface. B2C is the Book-to-Course workflow that turns an approved brief and source knowledge into structured course assets.
 
 ### Prep
-Delivery-format layer. Exports courses into presentable deliverables — PDF keynotes with timing, PPTX templates with speaker structure, DOCX teaching materials, quote cards.
+
+The delivery surface for keynotes, teaching material, presentations, and supported export formats. Hera is its conversational Agent.
+
+### Assistant
+
+The main surface for voice-based practice and focused assistance. Harmon is the voice-rehearsal Agent used there.
 
 ### Boost
-Multi-platform distribution layer. Adapts content for platform-specific formats (short-form video scripts, social posts, podcast adaptations, newsletter formats).
 
-## Pipeline Agents
+A role-scoped distribution surface for adapting approved source material to different channels. Hylia is its Agent.
 
-The pipeline is operated by named conversational agents, each scoped to one production phase. Users interact with them by name in the product UI.
+### Hypatia
+
+A Pro research surface and Agent label backed by a research workflow. It supports versioned, evidence-oriented work; access and available report types depend on the current product.
+
+## Agents
 
 ### Helena
-The main routing & dialog agent across Atlas (planning) and Library (deep-read). Handles intent detection, multi-turn conversation, and routing to specialized skills (D2B / RAG / recommendation). Most users meet Herline through Helena first.
+
+Knowledge-planning and deep-reading Agent associated with Atlas and Library.
 
 ### Holly
-The course strategy agent operating in Studio. Takes a user's professional profile + selected knowledge blocks and proposes course briefs — positioning, audience, learning arc, unit structure. Holly hands off to the B2C generation engine once the brief is locked.
+
+Course-planning Agent in Studio. Holly prepares and revises course briefs; the B2C workflow performs course generation.
 
 ### Hera
-The delivery-prep agent operating in Prep. Turns finished courses into stage-ready deliverables — keynote PDFs with timing notes, PPTX templates with structured talking points, DOCX teaching materials. Hera is the layer between "course exists" and "you can actually walk on stage with it".
+
+Delivery Agent in Prep. Hera helps turn approved knowledge and course material into presentation and teaching assets.
+
+### Harmon
+
+Voice-rehearsal Agent in Assistant. Harmon supports practice and feedback; it is not a therapist, crisis service, legal adviser, or real-world negotiation agent.
 
 ### Hylia
-The distribution agent operating in Boost. Adapts content for platform-specific formats — long-form social posts, short-form video scripts, podcast adaptations, newsletter framings. Hylia is what closes the public-influence loop on the two-axis thesis.
 
-## Knowledge Unit Types
+Distribution Agent in Boost. Access is role-scoped and does not create authority to publish without human approval.
+
+## Knowledge and output terms
 
 ### Claim
-A factual assertion extracted from source material, with citation to the originating passage. Example: *"System 1 thinking is fast and automatic (Kahneman, p. 24)."*
+
+A source-linked assertion extracted or recorded for review. A Claim is not automatically verified fact.
 
 ### Concept
-A definable idea, framework, or entity. Example: *"Anchoring Effect"*, *"Peak-End Rule"*, *"Loss Aversion."*
+
+A defined idea, framework, or entity derived from source material.
 
 ### Method
-A reproducible procedure, approach, or technique. Example: *"5-Why root cause analysis"*, *"Pre-mortem planning."*
 
-### Knowledge Block
-Umbrella term for a Claim, Concept, or Method. Each block includes source location, confidence signal, related-block links, and metadata for retrieval.
+A reproducible procedure, approach, or technique.
 
-## Audience Terms
+### Knowledge block
 
-### Super Individual (超级个体)
-Knowledge workers operating as one-person businesses, combining multiple roles (consultant, content creator, educator, coach) under a personal brand. Herline's primary user.
+A reusable structured unit such as a Claim, Concept, or Method, with source and context metadata.
 
-### One-Person Company (一人公司)
-A business structure where a single person performs all roles — strategy, delivery, marketing, sales. Common in knowledge industries in China; over 12M practitioners by 2026.
+### Course brief
 
-### Knowledge Creator
-Broader category including super individuals plus domain experts who produce educational content (teachers, trainers, writers) even if employed by institutions.
+The approved planning artifact that defines audience, learning goals, structure, and constraints before B2C generation.
 
-## Technical Terms
+### Versioned research
 
-### Cross-Book RAG
-Retrieval-Augmented Generation that spans the user's entire knowledge database, surfacing connections across books and readings. Enables course generation that composes insights from multiple sources.
+A research project can retain distinct versions and eligible reruns without silently overwriting earlier work.
 
-### Knowledge Graph
-The user's persistent, growing database of Claims, Concepts, and Methods extracted from all their deep reads. Grows with use; enables compounding productivity.
+## Audiences and access
 
-### Cross-Book Composition
-The ability to build a single course or keynote from knowledge blocks drawn from multiple books — a capability that emerges from cross-book RAG plus the Studio layer.
+### Youth learner and guardian
 
-### Pipeline Layer
-One of the seven specialized stages (Assessment through Boost). Each layer has a typed input, typed output, and specific responsibility. Layers are usable standalone or chained.
+A learner under 18 and the guardian responsible for required authorization and guidance. Youth access is subject to age-appropriate and guardian controls.
 
-### LangGraph Orchestration
-The framework Herline uses to model each pipeline layer as a graph node (or subgraph) with explicit state transitions and checkpointing. Enables long-running jobs to resume from the last checkpoint rather than restarting.
+### Adult professional
 
-### Async Generation
-Long-running tasks (D2B extraction, B2C course generation, TTS synthesis) run on an async queue rather than blocking the UI. Jobs are observable via trace IDs and cancelable mid-execution.
+An adult using Herline to strengthen judgment and expression in real work, relationships, presentations, or public output.
 
-## Product Tiers
+### Youth educator
 
-### Free Tier
-Entry-level access covering Assessment, a first deep-read, and a course generation trial. No credit card required.
+A teacher or educator using Pro creation, research, and delivery tools to support youth learning.
 
-### Core / Pro Tiers
-Paid tiers with higher generation quotas, priority queues, and expanded storage. Details at [herline.vip/pricing](https://herline.vip) (linked, not reproduced here — see `feedback_marketing_page` convention).
+### Operator / host
 
-### Institution Tier
-For schools, training organizations, and institutions needing curriculum matrices and multi-teacher collaboration. Contact `partners@herline.vip`.
+An invited, role-scoped user with access to specific operating tools. This role does not automatically grant access to learner content or another user’s workspace.
 
-## Related Projects & IPs
+### Free / Core / Pro / Plus
 
-### GCYSC — Global Chinese Youth Speaking Tour
-An overseas-only school-partnership initiative where Herline provides the knowledge-productization infrastructure for partner schools running Chinese-language speaking programs — keynote development, rehearsal tools, delivery materials, cross-cohort archives. **Not connected to mainland-China admissions or credential systems.**
-
-### 超演无界 (Chao Yan Wu Jie)
-The unified brand umbrella covering Herline's speaking-program collaborations. The Chinese-domestic version operates under the "巡回" (tour) framing for educational compliance; the international version is GCYSC. Leverages Herline's pipeline to turn speaking-program preparation into knowledge-asset-building rather than ephemeral coaching.
+Product plans and program entitlements. Current prices, quotas, and availability are shown in the live product and are not duplicated here because they can change independently of documentation.
 
 ---
 

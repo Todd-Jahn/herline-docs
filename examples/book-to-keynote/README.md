@@ -1,10 +1,12 @@
 # Example: Book → Keynote
 
-This example demonstrates turning a single book (plus a short user bio) into a 30-minute keynote speech — a use case that typically takes a subject-matter expert 2–4 weeks of drafting, redrafting, and rehearsal prep.
+This editorial example illustrates how a book and a synthetic speaker brief can inform a keynote draft.
+
+> **Evidence boundary:** This is not a customer story, controlled benchmark, or record of a current production run. Names, background details, product anecdotes, metrics, and timings in the sample are illustrative unless independently cited.
 
 ## What's demonstrated
 
-- **End-to-end pipeline**: Library (D2B) → Studio → Courses (B2C) → Prep
+- **Connected workflow concept**: Library (D2B) → Studio → Courses (B2C) → Prep
 - **Audience adaptation**: the same book, delivered differently for different audiences
 - **Deliverable export**: keynote with timing annotations, ready to speak from
 
@@ -19,7 +21,7 @@ This example demonstrates turning a single book (plus a short user bio) into a 3
 
 - [`input.md`](input.md) — What was provided to Herline
 - [`output-keynote.md`](output-keynote.md) — The 30-min keynote, ready to deliver
-- [`generation-notes.md`](generation-notes.md) — Timing, process, human edits applied
+- [`generation-notes.md`](generation-notes.md) — Editorial process and evidence limits
 
 ## Why this case
 
@@ -33,7 +35,7 @@ The keynote doesn't try to cover the whole book. It picks 3 core ideas, grounds 
 
 ## Who should read this example
 
-- Someone evaluating whether Herline's output quality justifies the workflow
+- Someone evaluating the structure of a possible Herline-assisted workflow
 - Someone preparing a similar keynote from a dense non-fiction book
 - Contributors wanting to see the example-file convention in practice
 

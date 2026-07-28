@@ -41,4 +41,4 @@ What was provided to Herline to generate this keynote.
 
 ---
 
-This input was provided through Herline's Assessment (for the bio) and Studio's course brief interface (for the target audience, goal, constraints, tone). The book itself was deep-read once prior to this generation, producing 47 knowledge blocks (23 Claims, 12 Concepts, 12 Methods) from which Studio selected 11 to anchor the keynote.
+This is a synthetic editorial brief prepared to demonstrate the structure of a possible workflow. It is not customer data or a verified production-run record.

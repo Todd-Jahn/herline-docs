@@ -2,7 +2,9 @@
 
 > Professional scarcity is migrating to two axes that compound on multi-year timescales — and AI cannot equalize either by sheer model improvement.
 
-This is the structural shift Herline is built around. The 7-layer pipeline is the *what*; this thesis is the *why*.
+This is one product thesis behind Herline's learning and expression loops.
+
+> **Status note:** This document explains a strategic thesis, not current feature availability or measured market outcomes. For the current public product map and availability boundaries, see the [README](../README.md) and [public architecture](architecture.md).
 
 ---
 
@@ -85,9 +87,9 @@ Both axes need a workflow that grows them in parallel. The artifact that demonst
 
 ## 5. How Herline Maps to the Thesis
 
-Herline's pipeline is engineered so that every depth-building action also produces a publishable artifact.
+Herline connects depth-building work to artifacts that a user may choose to share. Publication is never automatic.
 
-| Pipeline layer | Builds depth via | Produces influence artifact |
+| Product area | Builds depth via | Can produce |
 | --- | --- | --- |
 | Library (D2B) | Structured knowledge blocks per book — your reading becomes recallable | Block-attributed citations make downstream work referenceable |
 | Studio | Course strategy forces a defensible learning arc | The blueprint itself is shareable as a teaching artifact |
@@ -95,7 +97,7 @@ Herline's pipeline is engineered so that every depth-building action also produc
 | Prep | Multi-format export demands explicit narrative discipline | PDFs, decks, and DOCX are immediately publishable |
 | Boost | Cross-platform adaptation forces channel-specific framing | Each adapted output enters the public archive |
 
-The personal knowledge graph that grows underneath all of these is the long-term moat: it accumulates across years, makes future depth-building cheaper, and the artifacts shipped along the way build the influence archive.
+Over time, retained user-approved context can make future work more coherent. Whether an artifact enters a public archive remains the user's decision.
 
 ---
 
@@ -114,9 +116,9 @@ A few things the thesis is **not** claiming:
 
 A discipline check. The thesis is wrong if:
 
-- **AI does not equalize knowledge transfer** — generic explanation remains a scarce, multi-year skill. (Empirical evidence over 2024–2026 has gone the other way.)
-- **Hiring continues to prioritize credentials over public archives** — credential systems remain primary even after AI-collaboration becomes a critical skill. (Empirical evidence in AI-native hiring funnels has gone the other way.)
-- **Single-axis training proves sufficient** — candidates with deep AI skills but no public archive, or strong public archives but shallow AI skills, succeed at the same rate as dual-axis candidates. (This does not match what we observe in early hiring funnels.)
+- **AI does not equalize knowledge transfer** — generic explanation remains a scarce, multi-year skill.
+- **Hiring continues to prioritize credentials over public archives** — credential systems remain primary even after AI-collaboration becomes a critical skill.
+- **Single-axis training proves sufficient** — candidates with deep AI skills but no public archive, or strong public archives but shallow AI skills, succeed at the same rate as dual-axis candidates.
 
 We track these falsification conditions explicitly and would update the product strategy if any of them flipped.
 
@@ -124,8 +126,8 @@ We track these falsification conditions explicitly and would update the product 
 
 ## Related Reading
 
-- [`README.md`](../README.md) — top-level overview of the pipeline
+- [`README.md`](../README.md) — current public product overview
 - [`README.zh-CN.md`](../README.zh-CN.md) — 中文版本
-- [`docs/architecture.md`](architecture.md) — technical realization of the pipeline
+- [`docs/architecture.md`](architecture.md) — public product architecture and boundaries
 - [`docs/glossary.md`](glossary.md) — terminology
 - [`docs/data-handling.md`](data-handling.md) — how the personal knowledge graph stays yours

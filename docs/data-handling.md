@@ -1,128 +1,50 @@
-# Data Handling
+# Data Handling: Public Guide
 
-A plain-language overview of how Herline handles your data. This is not a legal document — the full privacy policy lives at [herline.vip/privacy](https://herline.vip/privacy).
+This page explains Herline’s data-handling approach in plain language. It is not a replacement for the live [Privacy Policy](https://herline.vip/legal/privacy), [Terms](https://herline.vip/legal/terms), voice notice, or other legally binding product notices. If this guide conflicts with a current policy, the current policy controls.
 
-## Core Principles
+## What Herline may process
 
-### 1. Your Knowledge Graph Belongs to You
+Depending on the feature a user chooses, Herline may process:
 
-Every Claim, Concept, and Method extracted from your deep-reads belongs to you. Every course you generate, every keynote you produce — all yours. We store them on your behalf to power the product; we never repackage, resell, or use them without your instruction.
+- account, age-band, guardian, authentication, and security information;
+- source material, notes, prompts, generated work, edits, and feedback;
+- conversation context and knowledge retrieved for the current task;
+- voice, transcript, rehearsal, and assessment information where the user enters a voice experience;
+- orders, entitlements, refunds, sharing actions, and support records;
+- device, reliability, security, and audit events needed to operate the service.
 
-### 2. We Don't Train On Your Private Data
+The live privacy policy lists the current categories, purposes, legal bases, retention rules, and service-provider categories.
 
-Your private knowledge graph, course drafts, and deep-read results **are not used to train machine learning models** — ours or anyone else's. The compounding intelligence in your personal graph only makes Herline smarter **for you specifically**, not for the platform at large.
+## User control and visibility
 
-### 3. Export Is Always Available
+- Private content is not public by default.
+- Sharing is an explicit action; users should review both content and audience before creating a share link.
+- Product access is scoped by account, role, purpose, and current entitlement.
+- Users and guardians can exercise applicable access, correction, deletion, withdrawal, and cancellation rights through product controls or the contacts in the privacy policy.
+- Some transaction, security, dispute, consent, or legal records may need to be retained for a defined legal purpose after an account or item is deleted.
 
-You can export your knowledge graph at any time, in formats that don't require Herline to consume (Markdown, JSON, structured text). Your ability to leave is a first-class product feature, not an afterthought.
+## AI and service providers
 
-### 4. Portability Over Lock-In
+Herline may send the minimum information needed for a requested task to contracted cloud, AI, speech, search, payment, communication, support, security, or monitoring providers. Provider access does not create permission to use the data for unrelated purposes.
 
-Our moat is the depth and fit of your personal graph, not the difficulty of leaving. Generated deliverables (keynotes, decks, courses) are yours to use commercially without royalty. Source material attribution follows standard copyright conventions.
+The current policies state that raw private content, raw voice, and identifiable personal information are not directly placed into shared or general-purpose training sets. De-identified data is still treated as personal information when it can be re-associated; only genuinely anonymized aggregate information falls outside that category.
 
-## What Data We Process
+## Voice and youth safeguards
 
-### You provide
-- **Account info**: email, password (hashed), payment info (processed by external PCI-compliant providers — we don't see card numbers)
-- **Profile data**: Assessment results, stated domains, preferences
-- **Source material**: books, articles, transcripts you upload or link to
-- **Generated artifacts**: courses, keynotes, decks you create
+- Voice experiences use a dedicated notice and authorization flow where required.
+- Herline does not use raw voice to create a voiceprint identity template.
+- Users under 18 require guardian authorization; users under 14 receive the additional protections applicable to sensitive children’s information.
+- School, community, or program participation does not replace guardian authorization where the law requires it.
+- Voice rehearsal and automated feedback are learning tools, not therapy, crisis intervention, or a professional high-impact decision service.
 
-### We derive
-- **Knowledge blocks**: Claims/Concepts/Methods extracted from your sources
-- **Embeddings**: vector representations enabling cross-book RAG
-- **Usage telemetry**: aggregated patterns for product improvement (anonymized)
+## Security and incidents
 
-### We don't collect
-- Your browsing activity outside Herline
-- Social graph data from third parties
-- Device fingerprinting beyond what's needed for fraud prevention
+Herline’s public policy describes risk-appropriate controls such as encrypted transport, password hashing, access control, key management, audit logging, backups, vulnerability management, and incident response. No internet service can promise absolute security.
 
-## Where Data Lives
+Security reports should go to `security@herline.vip`. Privacy and data-rights requests should go to `legal@herline.vip` or the current in-product path.
 
-### Data Residency
-- **Users in mainland China**: data stored in mainland-China cloud infrastructure, compliant with local regulations
-- **International users**: data stored in international cloud infrastructure
-- **Cross-border transfers**: only occur when legally permitted and necessary for service delivery (e.g., TTS providers that operate internationally)
+## What this repository does not publish
 
-### Storage Providers
-We use established cloud providers with enterprise-grade security certifications. Specific provider names and certifications are available on request and listed in our full privacy policy.
+This public repository does not disclose customer data, private source material, credentials, environment variables, infrastructure addresses, security-sensitive topology, provider routing, internal retention jobs, or operational incident records.
 
-## What We Share
-
-### With service providers
-Limited, purpose-scoped data sharing with:
-- Payment processors (transaction data only)
-- Email providers (for account notifications)
-- TTS synthesis providers (course narration text, results)
-- Analytics providers (anonymized usage data)
-
-### With law enforcement
-Only when legally compelled, and we notify users where legally permitted.
-
-### Never
-- To advertisers
-- To data brokers
-- To train third-party AI models
-- For any purpose not essential to service delivery
-
-## Security
-
-- **Encryption in transit**: TLS 1.3 everywhere
-- **Encryption at rest**: all user data encrypted at the storage layer
-- **Access controls**: Herline staff access to user data is minimized, logged, and audited
-- **Incident response**: see [SECURITY.md](../SECURITY.md) for vulnerability reporting
-
-## Retention & Deletion
-
-### While active
-Data retained as long as your account is active, to power the product.
-
-### After cancellation
-- **30-day grace period**: full export access retained
-- **After 30 days**: account data deleted except where retention is required by law (financial records, etc.)
-- **Aggregated/anonymized telemetry**: may persist for product analytics but is not tied to your identity
-
-### Deletion on request
-You can request complete deletion at any time via `privacy@herline.vip`. We honor deletion requests promptly, subject to legal retention requirements.
-
-## Your Rights
-
-Depending on your jurisdiction, you may have rights to:
-- Access your personal data
-- Correct inaccurate data
-- Delete your data
-- Export your data in portable format
-- Object to certain processing
-- Withdraw consent
-
-Herline honors these rights globally, not only where locally required. Submit requests to `privacy@herline.vip`.
-
-## Enterprise / Institutional Compliance
-
-For institutional partners and enterprise customers, we offer:
-- **Data Processing Agreements** (DPAs)
-- **Audit logs** with configurable retention
-- **SSO** with major identity providers
-- **Data residency commitments** per contract
-- **Compliance attestations** (on request, per jurisdiction)
-
-Contact `partners@herline.vip` for institutional agreements.
-
-## Changes to This Document
-
-When we update this document:
-- Material changes are announced via in-product notification
-- Change history is maintained in this repository's Git log
-- Users can review the Git blame to see when any specific principle was adopted
-
----
-
-**Full privacy policy**: [herline.vip/privacy](https://herline.vip/privacy)
-**Questions**: `privacy@herline.vip`
-**Data deletion requests**: `privacy@herline.vip`
-**Security vulnerabilities**: `security@herline.vip` (see [SECURITY.md](../SECURITY.md))
-
----
-
-**See also**: [Architecture](architecture.md) · [Glossary](glossary.md) · [FAQ](faq.md) · [Main README](../README.md)
+See the [Public Documentation Policy](public-documentation-policy.md).

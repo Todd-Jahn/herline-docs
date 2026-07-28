@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability — either in [herline.vip](https://herline.vip) or in any public repository under the `herline` GitHub organization — please report it **privately**:
 
-📧 **security@herline.vip**
+📧 **<security@herline.vip>**
 
 **Please do not open a public GitHub issue for security vulnerabilities.**
 
@@ -25,13 +25,14 @@ When reporting, please share as much as you can:
 We take every report seriously. Here's what you can expect:
 
 | Stage | Timeline |
-|---|---|
+| --- | --- |
 | Initial acknowledgment | Within **48 hours** |
 | Triage & severity assessment | Within **7 days** |
 | Status update | Every **7 days** until resolved |
 | Public disclosure (if applicable) | Coordinated with reporter |
 
 **We will:**
+
 - Keep you informed as we investigate and fix
 - Credit you in our security advisories (unless you prefer to stay anonymous)
 - **Not pursue legal action** against researchers acting in good faith
@@ -40,12 +41,14 @@ We take every report seriously. Here's what you can expect:
 ## Scope
 
 ### In scope
+
 - **[herline.vip](https://herline.vip)** and all subdomains
 - **Public repositories** under the `herline` GitHub organization
 - **Herline mobile apps** (when released)
 - **Herline API endpoints** (public and authenticated)
 
 ### Out of scope
+
 - Third-party services we integrate with (report to them directly)
 - Social engineering attacks on Herline staff
 - Physical security of our offices
@@ -58,6 +61,7 @@ We take every report seriously. Here's what you can expect:
 ## Safe Harbor
 
 We consider security research conducted under this policy to be:
+
 - Authorized in accordance with the Computer Fraud and Abuse Act (CFAA)
 - Authorized in accordance with the EU's NIS2 Directive (to the extent applicable)
 - Exempt from DMCA 1201 restrictions on circumventing technical controls

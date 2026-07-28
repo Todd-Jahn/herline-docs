@@ -1,290 +1,116 @@
 <p align="center">
-  <a href="https://herline.vip">
-    <img src="assets/logo.svg" height="96" alt="Herline">
-  </a>
+  <a href="https://herline.vip"><img src="assets/logo.svg" height="96" alt="Herline"></a>
 </p>
 
 <h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>The AI engine for super individuals — code × media dual-core infrastructure.</strong><br>
-  Turn your expertise into <b>keynotes</b>, <b>pitch decks</b>, and <b>full courses</b>.
+  <strong>Build judgment. Express it clearly. Turn it into work people can see.</strong><br>
+  An AI workspace for deep reading, course and presentation creation, distribution, research, and voice rehearsal.
 </p>
 
 <p align="center">
-  <a href="https://herline.vip"><img src="https://img.shields.io/badge/website-herline.vip-5b8def?style=flat-square" alt="Website"></a>
-  <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/languages-EN%20%7C%20中文-6366f1?style=flat-square" alt="Languages">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/docs-CC%20BY%204.0-f59e0b?style=flat-square" alt="License"></a>
+  <a href="https://herline.vip"><img src="https://img.shields.io/badge/product-herline.vip-5b8def?style=flat-square" alt="Product"></a>
+  <img src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" alt="Status: live">
+  <img src="https://img.shields.io/badge/languages-中文%20%7C%20EN-6366f1?style=flat-square" alt="Languages">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/docs-CC%20BY%204.0-f59e0b?style=flat-square" alt="Documentation license"></a>
 </p>
 
 <p align="center">
-  <a href="#what-is-herline">What</a> •
-  <a href="#the-7-layer-pipeline">Pipeline</a> •
-  <a href="#who-its-for">Who</a> •
-  <a href="#use-cases">Use Cases</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#faq">FAQ</a> •
+  <a href="#what-herline-is">What</a> ·
+  <a href="#product-map">Product map</a> ·
+  <a href="#who-it-serves">Audience</a> ·
+  <a href="#recent-public-progress">Progress</a> ·
+  <a href="#trust-and-boundaries">Boundaries</a> ·
   <a href="README.zh-CN.md">中文</a>
 </p>
 
 ---
 
-## What is Herline
+## What Herline is
 
-**Herline (赫能)** is a vertical AI engine built for the **12M+ solopreneurs, independent consultants, and knowledge creators** who have deep expertise but struggle to turn it into external deliverables.
+Herline is an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
 
-Unlike generic AI tools (ChatGPT, Claude, Notion AI) that help you *write words*, Herline runs a **7-layer pipeline** that turns your professional knowledge into the three forms of outbound expression every super individual actually uses — **speeches to deliver on stage, pitch decks to raise capital, and courses to teach paying students**.
+The current public experience brings together four practical loops:
 
-🌐 **Live at [herline.vip](https://herline.vip)** — free tier available.
+- **Deep reading** — turn books and long-form material into reusable knowledge and your own point of view.
+- **Course and presentation creation** — develop an idea into a course brief, teaching script, keynote, or presentation.
+- **Distribution** — adapt one approved idea for different channels and learn from real response.
+- **Voice rehearsal** — practise high-stakes conversations and presentations before facing the real situation.
 
----
+Herline serves youth learners and their guardians, adult professionals, youth educators, and invited operators through separate, permission-aware product paths. Availability varies by account, role, region, and the current product page.
 
-## Why Herline Exists
+The phrase **“AI resistance” (AI 抗体)** describes the product thesis: as AI absorbs more standardized work, judgment, expression, trust, and responsibility become more valuable.
 
-Smart people read 50 books a year and still can't teach what they learned. Not because the books are bad — but because **from "I read it" to "I can teach it", an entire workflow is missing**:
+🌐 The live product and current plan details are at [herline.vip](https://herline.vip).
 
-- **Deconstruct** — knowledge networks broken into reusable blocks, not just summaries
-- **Recompose** — blocks reorganized by learning arc, not outline stacking
-- **Deliver** — expressed in the right medium (a keynote ≠ a course ≠ a short video)
-- **Persist** — saved as a personal knowledge graph, not forgotten after the chat closes
+## Product map
 
-Generic AI tools break down at step one. Herline is the pipeline that closes the loop.
+Herline separates user-facing surfaces, AI agents, and long-running workflows. A name in one column should not be treated as another kind of component.
 
-The mission: **make every knowledge worker a viable one-person company.**
+| User-facing surface | AI / workflow responsibility | User outcome |
+| --- | --- | --- |
+| Assessment | Profile and starting-point capture | A clearer learning or creation starting point |
+| Atlas | Helena plans and discusses reading paths | Better source selection and learning direction |
+| Library | D2B deep-reading workflow | Traceable knowledge blocks and cross-source understanding |
+| Studio | Holly develops course briefs | Audience, learning arc, structure, and delivery plan |
+| Courses | B2C course-generation workflow | Structured lessons, scripts, audio, and assessments |
+| Prep | Hera prepares delivery assets | Keynotes, teaching materials, PDF/PPTX/DOCX exports |
+| Assistant | Harmon supports voice rehearsal | Practice, feedback, and revision before real conversations |
+| Boost | Hylia supports role-scoped distribution | Channel-ready expression based on approved source material |
+| Hypatia | Research workspace and evidence workflow | Versioned research, decision support, and resumable work |
 
----
+These components can be used independently. They do not form a promise that every feature is available to every account.
 
-## Why Now — The Two-Axis Thesis
+See [Public product architecture](docs/architecture.md) and the [Glossary](docs/glossary.md).
 
-> "Code and media are permissionless leverage."
-> — Naval Ravikant, 2018
+## Who it serves
 
-Naval split wealth leverage into Labor / Capital / Code / Media. The latter two are permissionless — you don't need a boss's approval to write code or publish work. Herline operationalizes this observation into a workflow: **a code × media dual-core infrastructure on the company side, growing cognitive-depth × public-influence dual-axis capability on the user side**.
+| Audience | Typical need | Herline path |
+| --- | --- | --- |
+| Youth learners and guardians | Build judgment, expression, and visible work over time | Assessment, Atlas, Library, Courses, Assistant |
+| Adult professionals | Turn experience into clearer decisions, presentations, courses, and market-facing work | Library, Studio, Prep, Assistant, distribution |
+| Youth educators | Prepare learning material and improve delivery without giving up professional judgment | Pro creation, research, and delivery tools |
+| Invited operators and partners | Coordinate approved programs and distribute approved work | Role-scoped workspaces and operating tools |
 
-For most of the last century, "good teaching" was scarce because four ingredients took years to compound: deep knowledge, cross-domain composition, error-pattern intuition, and practice reps. Generative AI is equalizing all four at the speed of a software release — so professional scarcity migrates to areas AI cannot equalize as fast.
+Community identity, partnership, or program participation does not automatically grant access to another user’s data or to restricted product capabilities.
 
-We're betting on **two axes**:
+## Recent public progress
 
-- **Cognitive depth** — a defensible point of view in a domain, built through the loop of using AI to interrogate, structure, and pressure-test what you already know.
-- **Public influence** — a multi-year archive of work others have followed, which compounds slowly and cannot be retroactively manufactured.
+The public documentation was refreshed in July 2026 against the live product, current product strategy, and released-capability evidence.
 
-Hiring signals are shifting. Alongside credentials, employers are increasingly reading public archives — code, posts, recorded talks, courses you've shipped — and how you collaborate with AI in real workflows. This pattern is showing up earliest in AI-native roles, but the signal generalizes outward.
+- Library now includes Helena-powered semantic discovery and comparison-oriented recommendations.
+- Hypatia’s Pro research workspace supports versioned projects, reruns, and resuming eligible interrupted work.
+- Plus purchase and a role-scoped operator workspace have been released for their intended audiences.
+- The adult public entry now centres on deep reading, course/presentation creation, distribution, and voice rehearsal.
 
-Herline is built to grow **both axes in the same workflow**:
+Features still in validation, internal shadow systems, experimental integrations, and unreleased programs are intentionally not advertised as available here.
 
-- Every deep-read fills the personal knowledge graph → depth.
-- Every Prep export becomes a public artifact → influence.
-- The pipeline runs as a daily compounding loop, not a one-shot generator.
+## Trust and boundaries
 
-This is also why generic "AI productivity" tools and stand-alone "speaking" programs each address only half of the picture. The two are best developed together.
+- **The person remains responsible.** AI output can be incomplete or wrong; publication, teaching, commercial use, and high-impact decisions require human review.
+- **Access is scoped.** Product visibility and data access depend on account, role, purpose, and explicit authorization.
+- **Private content is not public by default.** Sharing is an explicit user action.
+- **Youth and voice data receive additional controls.** Guardian authorization and dedicated voice notices apply where required.
+- **Current policy beats this summary.** See the live [Privacy Policy](https://herline.vip/legal/privacy), [Terms](https://herline.vip/legal/terms), and AI-content policy.
 
-📖 Longer version with falsification conditions: English [`docs/two-axis-thesis.md`](docs/two-axis-thesis.md) · 中文 [`docs/two-axis-thesis.zh-CN.md`](docs/two-axis-thesis.zh-CN.md).
+This repository contains public documentation, examples, and community resources. It does **not** contain Herline source code or disclose internal model routing, provider topology, feature flags, credentials, customer data, operating runbooks, unit economics, or unreleased product plans. See the [Public documentation policy](docs/public-documentation-policy.md).
 
----
+## Repository scope
 
-## The 7-Layer Pipeline
+- [`docs/architecture.md`](docs/architecture.md) — public product architecture and responsibility boundaries
+- [`docs/glossary.md`](docs/glossary.md) — current product vocabulary
+- [`docs/faq.md`](docs/faq.md) — product and documentation questions
+- [`docs/data-handling.md`](docs/data-handling.md) — plain-language guide; live legal policies remain authoritative
+- [`examples/`](examples/) — illustrative public examples, not production benchmarks or service guarantees
 
-```
-    ┌─────────────┐
-    │ Assessment  │  →  Capture your professional profile
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Atlas    │  →  Personalized book & content planning
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   Library   │  →  Deconstruct books into reusable knowledge blocks
-    │    (D2B)    │      (Claims / Concepts / Methods)
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   Studio    │  →  Design course strategy from your knowledge graph
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   Courses   │  →  Auto-generate full courses with scripts,
-    │    (B2C)    │      TTS audio, and assessments
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Prep     │  →  Export keynotes, pitch decks, teaching materials
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    Boost    │  →  Adapt content for multi-platform distribution
-    └─────────────┘
-```
+Herline’s core engines are proprietary. Documentation in this repository is licensed under [CC BY 4.0](LICENSE); the product and its source code are not covered by that documentation license.
 
-Each layer is usable standalone. Or chain them end-to-end: **one book in, a complete set of deliverables out**.
+## Contributing and contact
 
-📖 See [`docs/architecture.md`](docs/architecture.md) for a deeper walkthrough.
+Documentation corrections and public examples are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). Product bugs and account questions should use in-product support or `customer-support@herline.vip`.
 
----
-
-## Who It's For
-
-| Persona | Core Pain | What Herline Solves |
-|---|---|---|
-| **Independent Consultant** | 10 years of expertise reassembled from scratch for every proposal | Personal knowledge graph → reusable callable blocks |
-| **Content Creator / Lecturer** | 2–4 weeks to prepare a single course | D2B → Studio → B2C pipeline compresses it to 1–2 days |
-| **Solo Founder** | Pitch decks eat creative energy before product work | Expertise + one book → pitch deck ready for iteration |
-| **Institution / School** | Need 10 curricula/year, can only produce 2 | One teacher's expertise auto-expands into a curriculum matrix |
-
----
-
-## What Makes Herline Different
-
-- 🧠 **Persistent personal knowledge graph** — grows with every book, every deep-read, every course. Cross-book RAG surfaces insights at intersections you'd never find manually.
-- 🏗️ **End-to-end vertical pipeline** — not another AI chat box. Seven specialized layers, each addressing a specific workflow break.
-- 🌐 **Bilingual native** — Chinese and English are first-class throughout, not bolted-on translation layers.
-- 📦 **Export to deliverables, not documents** — PDFs with timing notes, PPTX templates with speaker structure, curriculum-ready assessments.
-- 🎯 **Built for super individuals** — 12M+ one-person companies, domain experts, educators. Not for teams, not for enterprises (yet).
-- 🔐 **Data ownership** — your knowledge database belongs to you. The system gets smarter with use; we never repackage your content. See [`docs/data-handling.md`](docs/data-handling.md).
-
----
-
-## Use Cases
-
-### 📣 Book → Keynote
-**Input**: a book you've read + a short bio.
-**Output**: a 30–45 min keynote script with timing annotations, slide deck template, and quote cards.
-**Typical time**: ~30 minutes end-to-end.
-
-👉 [See full example](examples/book-to-keynote/)
-
-### 💼 Expertise → Pitch Deck
-**Input**: your professional profile + target audience.
-**Output**: 15–20 page pitch deck with narrative arc and speaker notes.
-**Typical time**: ~45 minutes end-to-end.
-
-### 🎓 Book → Full Course
-**Input**: a book + target learner profile.
-**Output**: 3–7 unit course with scripts, TTS audio narration, and assessments.
-**Typical time**: 1–2 hours end-to-end.
-
-### 📚 Knowledge Graph Over Time
-Every read, course, and deck persists in your personal knowledge database. Cross-book RAG surfaces connections you'd never find manually. The longer you use Herline, the smarter it gets for you specifically.
-
----
-
-## Architecture
-
-At a high level:
-
-| Layer | Stack |
-|---|---|
-| Frontend | React 18 · Next.js 16 · TypeScript · Tailwind CSS |
-| Backend | FastAPI · SQLAlchemy (async) · Python 3.11 |
-| AI orchestration | **LangGraph 1.0** — multi-step workflows across specialized agents |
-| Data | MySQL 8 (metadata) · Redis 7 (cache/queue) · Milvus 2.6 (vector) |
-| Async processing | **ARQ** on Redis Streams — long-running D2B / B2C generation jobs |
-| Speech synthesis | Cloud-based TTS for audio course generation |
-
-Under the hood:
-- LangGraph-orchestrated multi-step pipelines with state checkpointing
-- Dual-LLM strategy: generative models for synthesis, reasoning models for structured output
-- Cross-book RAG via Milvus with custom embedding strategies
-- Token-aware cost management across 10M+ monthly token operations
-- Structured knowledge-block schema (Claims / Concepts / Methods) that enables cross-book composition
-
-The deconstruction and generation engines are proprietary. This repository exists for public documentation, not source distribution. See [`docs/architecture.md`](docs/architecture.md) for a deeper walkthrough.
-
----
-
-## Roadmap
-
-### ✅ Shipped (Q1 2026)
-- 7-layer pipeline — production-ready
-- Prep export: PDF / PPTX / DOCX
-- Cross-book RAG over personal knowledge graph
-- Elective courses marketplace
-- Sharing & collaboration primitives
-
-### 🚧 In Progress (Q2 2026)
-- **GCYSC** — Global Chinese Youth Speaking Tour, international school program (overseas-only; out of scope for domestic K–12 admissions)
-- City partner program V1 for the AI-literacy curriculum
-- Marketing agent (Boost) for automated multi-platform distribution
-- Sentiment & citation tracking for brand visibility in AI search
-
-### 🔭 Exploring (Q3+ 2026)
-- **MCP Server** — native Claude / ChatGPT / Cursor integration
-- **Public OpenAPI spec** — enable external tool integrations
-- GPT Store presence for "Course Planner by Herline"
-- International expansion (EN / ES / JA)
-- Creator monetization layer
-
----
-
-## FAQ
-
-### Is Herline open source?
-**No.** This repository is public documentation and community resources only. The engines that power Herline's deconstruction and generation are proprietary — they represent years of domain-specific research and are what differentiate Herline from generic AI wrappers. We may open specific peripheral components (like MCP integration and OpenAPI spec) over time.
-
-### How is Herline different from ChatGPT / Claude?
-Generic AI tools are one-shot. You ask, they respond, and the context evaporates. Herline is a **pipeline with persistent state** — your personal knowledge database grows with every use. Long-term Herline users become significantly more productive than ad-hoc AI users because of this compounding effect.
-
-### Does Herline support English content?
-Yes. The pipeline is bilingual throughout. You can deep-read English books, generate English courses, and export English-language keynotes. Native support, not translation layers.
-
-### Can I use Herline for institutional / academic curriculum?
-Yes. The institution tier supports curriculum matrices and teacher collaboration. One teacher's expertise auto-expands into a full curriculum matrix. Contact `partners@herline.vip` for institutional inquiries.
-
-### What's the data ownership model?
-Your knowledge database belongs to you. We never repackage your content, never train models on your private data, and never sell data. You can export your knowledge graph at any time. See [`docs/data-handling.md`](docs/data-handling.md).
-
-### How long does a typical generation take?
-- **D2B deep read**: 8–15 minutes per book (Claims / Concepts / Methods extraction)
-- **B2C course generation**: 30–90 minutes for a 3–7 unit course with audio
-- **Prep export**: under 2 minutes per format
-- Long runs execute asynchronously — you can queue multiple jobs.
-
-### Is there a free tier?
-Yes. Sign up at [herline.vip](https://herline.vip) — the free tier covers the assessment, first deep-read, and a course generation trial.
-
-### What about privacy and enterprise compliance?
-See [herline.vip/privacy](https://herline.vip/privacy) for the full privacy policy. Enterprise compliance features (SSO, audit logs, data residency) are available on higher tiers — contact `partners@herline.vip`.
-
-More questions? See [`docs/faq.md`](docs/faq.md) for the extended FAQ.
-
----
-
-## Resources
-
-- 🌐 **Product** — [herline.vip](https://herline.vip)
-- 📖 **Documentation** — [`docs/`](docs/) (architecture · glossary · FAQ · data handling)
-- 🏛️ **Architecture walkthrough** — [`docs/architecture.md`](docs/architecture.md)
-- 📚 **Glossary** — [`docs/glossary.md`](docs/glossary.md)
-- 🎓 **Example outputs** — [`examples/`](examples/)
-- 📋 **Awesome Super Individual** — [curated resources for solopreneurs](https://github.com/Todd-Jahn/awesome-super-individual) (companion list, CC0)
-- 💬 **Discussions** — [GitHub Discussions](https://github.com/Todd-Jahn/herline-docs/discussions)
-- 📧 **Contact** — hi@herline.vip
-- 🤝 **Partner / institutional inquiries** — partners@herline.vip
-
----
-
-## Contributing
-
-We welcome translations, documentation improvements, and case study contributions. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
-Core product feature requests go to `hi@herline.vip` or [herline.vip/feedback](https://herline.vip) — not via this repo.
-
----
-
-## About
-
-Herline (赫能) is built by a small team operating out of **East Asia and beyond**, shipping production infrastructure for a global audience of super individuals.
-
-We believe the defining challenge of the next decade isn't "can AI generate content" — it's **can every knowledge worker turn their expertise into products that compound**. Herline is our answer.
-
-**Mission**: make every knowledge worker a viable one-person company — by closing the workflow gap between what they know and what they can deliver.
-
----
-
-## License
-
-The content in this repository (documentation, diagrams, examples, and resources) is licensed under **[CC BY 4.0](LICENSE)**. You are free to share and adapt, with attribution.
-
-**Herline's core engine is proprietary** and not part of this repository. See [herline.vip/terms](https://herline.vip/terms) for product terms of service.
+- Product: [herline.vip](https://herline.vip)
+- Public documentation issues: [GitHub Issues](https://github.com/Todd-Jahn/herline-docs/issues/new/choose)
+- Privacy and legal: `legal@herline.vip`
+- Security reports: `security@herline.vip`
