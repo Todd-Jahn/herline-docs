@@ -2,7 +2,7 @@
 
 > Professional scarcity is migrating to two axes that compound on multi-year timescales — and AI cannot equalize either by sheer model improvement.
 
-This is one product thesis behind Herline's learning and expression loops.
+This is a historical product thesis behind Herline's education and learning X. It remains useful for understanding that X's learning and expression loops, but it no longer defines the Herline parent brand or the full show-IP × X matrix.
 
 > **Status note:** This document explains a strategic thesis, not current feature availability or measured market outcomes. For the current public product map and availability boundaries, see the [README](../README.md) and [public architecture](architecture.md).
 

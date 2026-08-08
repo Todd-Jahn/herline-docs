@@ -1,6 +1,6 @@
 # Public Product Architecture
 
-This document explains how Herline’s public product concepts fit together. It intentionally does not reproduce the private codebase, service topology, deployment design, provider routing, schemas, prompts, credentials, feature flags, or operational runbooks.
+This document explains the public product-platform and shared-infrastructure portion of Herline. It is not the complete definition of the Herline parent brand, the show-IP portfolio, or every X product. The parent-brand position and commercial boundaries live in approved brand materials; this document intentionally does not reproduce the private codebase, service topology, deployment design, provider routing, schemas, prompts, credentials, feature flags, or operational runbooks.
 
 ## Responsibility model
 
@@ -15,7 +15,7 @@ This document explains how Herline’s public product concepts fit together. It 
 
 A surface is not automatically an Agent, and an Agent is not automatically a workflow. This distinction keeps responsibility and user expectations clear.
 
-## Current public product map
+## Current public product-platform map
 
 ```text
 Profile / intent
@@ -49,7 +49,7 @@ role, purpose, region, and product-availability checks.
 5. Approved work can be exported, shared, rehearsed, or used as input to another product surface.
 6. Failures, interruptions, and new versions remain distinguishable from completed work.
 
-AI output does not silently become user-approved fact. A successful tool call also does not prove that a real-world outcome occurred.
+AI output does not silently become user-approved fact. A successful tool call also does not prove that a real-world outcome occurred. Product documentation, code presence, or a merged change does not by itself prove release, deployment, adoption, or business impact.
 
 ## Data and permission boundaries
 
@@ -63,7 +63,7 @@ See [Data Handling](data-handling.md) and the live [Privacy Policy](https://herl
 
 ## Availability and status
 
-The private product system distinguishes released capabilities from work that is validating, limited, internal, experimental, or retired. This public repository only describes a capability as available when current release evidence and the user-facing product support that statement.
+The private product system distinguishes released capabilities from work that is validating, limited, internal, experimental, or retired. This public repository only describes a capability as available when current release evidence and the user-facing product support that statement. Parent-brand direction, product strategy, and implementation evidence remain separate claims.
 
 Availability can still vary by role, account, region, and rollout. The live product is the final source for what a particular user can access.
 

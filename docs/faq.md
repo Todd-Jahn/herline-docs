@@ -4,7 +4,15 @@
 
 ### What is Herline?
 
-Herline is an AI workspace for deep reading, course and presentation creation, research, distribution, and voice rehearsal. AI accelerates execution while people retain judgment and responsibility.
+Herline is a brand and operating system built around show IP in front, shared infrastructure and an AI-native organization behind it, and media + X as the business model. Its mission is to give everyone the power to create lasting influence. The AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
+
+### What does “show IP × X” mean?
+
+It is a cross-sector product matrix. Herline turns media DNA into influence expressions for training, e-commerce, enterprise services or consulting, and other X domains. Each X is independently defined around a real need and must establish its own audience, authorization, delivery, and acceptance.
+
+### What is the current entrepreneurship program name?
+
+The current public name is **《成事者创业营》**. Older technical SKU identifiers or compatibility URLs may remain in implementation. Purchasing a product does not automatically grant program participation, media adoption, or distribution.
 
 ### Who is it for?
 

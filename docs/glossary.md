@@ -6,7 +6,15 @@ Public vocabulary for Herline. This glossary distinguishes product surfaces, Age
 
 ### Herline / 赫能
 
-The product and brand name. Herline helps people strengthen judgment and expression and turn professional knowledge into visible work.
+The brand and operating system built around show IP, shared infrastructure, an AI-native organization, and media + X. Its mission is to give everyone the power to create lasting influence.
+
+### Show IP × X
+
+A cross-sector product matrix. Herline turns media DNA into influence expressions for independently defined X domains such as training, e-commerce, and enterprise services or consulting. Each combination requires its own audience, authorization, delivery, and acceptance boundary.
+
+### Professional collaborators / Agentic collaboration team
+
+The professional collaboration team consists of human professional collaborators. The Agentic collaboration team consists only of AI Agents; it does not include human collaborators and does not replace human execution, acceptance, or accountability.
 
 ### AI resistance / AI 抗体
 

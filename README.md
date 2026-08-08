@@ -5,8 +5,8 @@
 <h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>Build judgment. Express it clearly. Turn it into work people can see.</strong><br>
-  An AI workspace for deep reading, course and presentation creation, distribution, research, and voice rehearsal.
+  <strong>Give everyone the power to create lasting influence.</strong><br>
+  Herline turns media DNA into validated products and visible work across an IP × X matrix.
 </p>
 
 <p align="center">
@@ -29,14 +29,20 @@
 
 ## What Herline is
 
-Herline is an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
+Herline is a brand and operating system built around **show IP in front, shared infrastructure and an AI-native organization behind it, and media + X as the business model**. Its mission is to **give everyone the power to create lasting influence**.
 
-The current public experience brings together four practical loops:
+The product thesis is **show IP × X: a cross-sector product matrix that transfers influence without loss**. Herline turns media DNA—people insight, content narrative, and distribution capability—into influence expressions for X domains such as training, e-commerce, and enterprise services or consulting. Each X is independently defined around a real need, with its own audience, authorization, delivery, and acceptance.
+
+The current product also provides an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
+
+The current public experience brings together practical loops:
 
 - **Deep reading** — turn books and long-form material into reusable knowledge and your own point of view.
 - **Course and presentation creation** — develop an idea into a course brief, teaching script, keynote, or presentation.
 - **Distribution** — adapt one approved idea for different channels and learn from real response.
 - **Voice rehearsal** — practise high-stakes conversations and presentations before facing the real situation.
+
+The current adult program name is **《成事者创业营》**. Older technical SKU identifiers and compatibility URLs may remain in implementation, but public product language uses this name.
 
 Herline serves youth learners and their guardians, adult professionals, youth educators, and invited operators through separate, permission-aware product paths. Availability varies by account, role, region, and the current product page.
 
@@ -94,7 +100,7 @@ Features still in validation, internal shadow systems, experimental integrations
 - **Youth and voice data receive additional controls.** Guardian authorization and dedicated voice notices apply where required.
 - **Current policy beats this summary.** See the live [Privacy Policy](https://herline.vip/legal/privacy), [Terms](https://herline.vip/legal/terms), and AI-content policy.
 
-This repository contains public documentation, examples, and community resources. It does **not** contain Herline source code or disclose internal model routing, provider topology, feature flags, credentials, customer data, operating runbooks, unit economics, or unreleased product plans. See the [Public documentation policy](docs/public-documentation-policy.md).
+This repository contains public documentation, examples, and community resources. It does **not** contain Herline source code or disclose internal model routing, provider topology, feature flags, credentials, customer data, operating runbooks, unit economics, or unreleased product plans. See the [Public documentation policy](docs/public-documentation-policy.md). Product or program purchase does not by itself grant access to restricted capabilities or establish a media, program, or distribution outcome; applicable rights and delivery are confirmed separately.
 
 ## Repository scope
 
