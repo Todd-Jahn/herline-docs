@@ -17,15 +17,17 @@
 </p>
 
 <p align="center">
-  <a href="#herline-是什么">产品</a> ·
-  <a href="#公开产品体验">公开产品体验</a> ·
-  <a href="#服务对象">服务对象</a> ·
-  <a href="#近期公开进展">近期进展</a> ·
-  <a href="#信任与边界">信任边界</a> ·
+  <a href="#what-herline-is">产品</a> ·
+  <a href="#public-product-experience">公开产品体验</a> ·
+  <a href="#who-it-serves">服务对象</a> ·
+  <a href="#recent-public-progress">近期进展</a> ·
+  <a href="#trust-and-boundaries">信任边界</a> ·
   <a href="README.md">English</a>
 </p>
 
 ---
+
+<a id="what-herline-is"></a>
 
 ## Herline 是什么
 
@@ -34,6 +36,8 @@ Herline 是一个**获客入口与成本管理的基础设施平台**。它连�
 内容与 IP 可以创造可信的进入点；Herline 的产品帮助用户从关注继续走向相关的学习、参与或其他经确认的下一步。平台希望让这段旅程长期更连贯、也更可被理解和核验。这是一项方向，不是对特定获客成本、转化结果或商业成果的承诺。
 
 面向品牌和经确认的合作方，Herline 可以承担“以更低成本获取高意向用户并完成转化”的服务角色。这是**品牌服务口径**，不是 C 端首页 tagline，也不承诺价格、规模或结果；具体服务、权益、交付与衡量方式另行确认。
+
+<a id="public-product-experience"></a>
 
 ## 公开产品体验
 
@@ -74,6 +78,8 @@ Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称
 
 详见[公开产品架构](docs/architecture.md)与[术语表](docs/glossary.md)。
 
+<a id="who-it-serves"></a>
+
 ## 服务对象
 
 | 服务对象 | 典型需求 | 主要路径 |
@@ -85,6 +91,8 @@ Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称
 
 社区身份、合作关系或项目参与不会自动产生数据访问权，也不会自动解锁受限产品能力。
 
+<a id="recent-public-progress"></a>
+
 ## 近期公开进展
 
 本仓库于 2026 年 9 月按当前平台方向和已发布能力证据完成刷新。
@@ -95,6 +103,8 @@ Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称
 - 成人公开入口已收敛为深度阅读、创课讲稿、分发与语音排练四条主链路。
 
 仍在验证的功能、内部 shadow 系统、实验性集成和未发布项目不会在本仓库中写成当前可用能力。本仓库同样不披露获客打法、CAC 假设、定价、运营细节或私有商业安排。
+
+<a id="trust-and-boundaries"></a>
 
 ## 信任与边界
 
