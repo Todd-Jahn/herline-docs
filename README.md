@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Give everyone the power to create lasting influence.</strong><br>
-  Herline turns media DNA into validated products and visible work across an IP × X matrix.
+  Content, learning, and tools that help people take the next useful step.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#what-herline-is">What</a> ·
-  <a href="#product-map">Product map</a> ·
+  <a href="#public-product-experience">Public product experience</a> ·
   <a href="#who-it-serves">Audience</a> ·
   <a href="#recent-public-progress">Progress</a> ·
   <a href="#trust-and-boundaries">Boundaries</a> ·
@@ -29,11 +29,15 @@
 
 ## What Herline is
 
-Herline is a brand and operating system built around **show IP in front, shared infrastructure and an AI-native organization behind it, and media + X as the business model**. Its mission is to **give everyone the power to create lasting influence**.
+Herline is an **acquisition-entry and cost-management infrastructure platform**. It brings together content and IP, user-facing products, learning and service pathways, and the systems that connect them. Its mission is to **give everyone the power to create lasting influence**.
 
-The product thesis is **show IP × X: a cross-sector product matrix that transfers influence without loss**. Herline turns media DNA—people insight, content narrative, and distribution capability—into influence expressions for X domains such as training, e-commerce, and enterprise services or consulting. Each X is independently defined around a real need, with its own audience, authorization, delivery, and acceptance.
+Content and IP can create trusted points of entry; Herline's products help people continue from attention into relevant learning, participation, or other approved next steps. The platform is designed to make that journey more coherent and more accountable over time. This is a direction, not a claim of a particular acquisition cost, conversion result, or commercial outcome.
 
-The current product also provides an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
+For brands and approved collaborators, Herline may serve as a partner for obtaining high-intent users at lower cost and completing conversion. That is a **brand-service role**, not the consumer-homepage tagline, and it does not promise a price, volume, or outcome. Specific services, rights, delivery, and measurement are confirmed separately.
+
+## Public product experience
+
+The current public experience includes an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
 
 The current public experience brings together practical loops:
 
@@ -83,14 +87,14 @@ Community identity, partnership, or program participation does not automatically
 
 ## Recent public progress
 
-The public documentation was refreshed in July 2026 against the live product, current product strategy, and released-capability evidence.
+The public documentation was refreshed in September 2026 against the current platform direction and released-capability evidence.
 
 - Library now includes Helena-powered semantic discovery and comparison-oriented recommendations.
 - Hypatia’s Pro research workspace supports versioned projects, reruns, and resuming eligible interrupted work.
 - Plus purchase and a role-scoped operator workspace have been released for their intended audiences.
 - The adult public entry now centres on deep reading, course/presentation creation, distribution, and voice rehearsal.
 
-Features still in validation, internal shadow systems, experimental integrations, and unreleased programs are intentionally not advertised as available here.
+Features still in validation, internal shadow systems, experimental integrations, and unreleased programs are intentionally not advertised as available here. This documentation also does not disclose acquisition playbooks, CAC assumptions, pricing, operating details, or private commercial arrangements.
 
 ## Trust and boundaries
 
