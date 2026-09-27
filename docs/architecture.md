@@ -1,6 +1,6 @@
 # Public Product Architecture
 
-This document explains the public product-platform and shared-infrastructure portion of Herline. It is not the complete definition of the Herline parent brand, the show-IP portfolio, or every X product. The parent-brand position and commercial boundaries live in approved brand materials; this document intentionally does not reproduce the private codebase, service topology, deployment design, provider routing, schemas, prompts, credentials, feature flags, or operational runbooks.
+This document explains Herline's public product-platform layer. Herline's current platform direction is acquisition entry and cost management: content and IP can create entry points, while products and service paths help users continue to approved next steps. This document does not describe the portfolio, the commercial operating model, or a promised result. It intentionally does not reproduce the private codebase, service topology, deployment design, provider routing, schemas, prompts, credentials, feature flags, or operational runbooks.
 
 ## Responsibility model
 
@@ -63,7 +63,7 @@ See [Data Handling](data-handling.md) and the live [Privacy Policy](https://herl
 
 ## Availability and status
 
-The private product system distinguishes released capabilities from work that is validating, limited, internal, experimental, or retired. This public repository only describes a capability as available when current release evidence and the user-facing product support that statement. Parent-brand direction, product strategy, and implementation evidence remain separate claims.
+The private product system distinguishes released capabilities from work that is validating, limited, internal, experimental, or retired. This public repository only describes a capability as available when current release evidence and the user-facing product support that statement. Platform direction, product strategy, implementation evidence, and commercial results remain separate claims.
 
 Availability can still vary by role, account, region, and rollout. The live product is the final source for what a particular user can access.
 
@@ -75,6 +75,7 @@ Availability can still vary by role, account, region, and rollout. The live prod
 - database schemas, infrastructure addresses, credentials, environment variables, and security controls that would increase attack surface;
 - customer data, account allowlists, private program assets, and support records;
 - internal economics, fundraising material, partner negotiations, and unpublished roadmaps;
+- acquisition tactics, CAC assumptions, pricing, measurement methods, and private commercial arrangements;
 - code-complete or validation-pending work presented as released.
 
 See the [Public Documentation Policy](public-documentation-policy.md) for the maintenance contract.

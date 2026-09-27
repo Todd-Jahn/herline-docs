@@ -6,11 +6,15 @@ Public vocabulary for Herline. This glossary distinguishes product surfaces, Age
 
 ### Herline / 赫能
 
-The brand and operating system built around show IP, shared infrastructure, an AI-native organization, and media + X. Its mission is to give everyone the power to create lasting influence.
+An acquisition-entry and cost-management infrastructure platform that connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence.
 
-### Show IP × X
+### Content and IP entry
 
-A cross-sector product matrix. Herline turns media DNA into influence expressions for independently defined X domains such as training, e-commerce, and enterprise services or consulting. Each combination requires its own audience, authorization, delivery, and acceptance boundary.
+Content and IP can create trusted points of entry. They are not, by themselves, a guarantee of user intent, conversion, or commercial performance.
+
+### Brand-service role
+
+For brands and approved collaborators, Herline may serve as a partner for obtaining high-intent users at lower cost and completing conversion. This wording describes a service role; it is not the C-end homepage tagline and does not promise a price, volume, or result. Specific agreements define any service, rights, delivery, and measurement.
 
 ### Professional collaborators / Agentic collaboration team
 

@@ -4,11 +4,15 @@
 
 ### What is Herline?
 
-Herline is a brand and operating system built around show IP in front, shared infrastructure and an AI-native organization behind it, and media + X as the business model. Its mission is to give everyone the power to create lasting influence. The AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
+Herline is an acquisition-entry and cost-management infrastructure platform. It connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence. The public AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
 
-### What does “show IP × X” mean?
+### What does the platform direction mean?
 
-It is a cross-sector product matrix. Herline turns media DNA into influence expressions for training, e-commerce, enterprise services or consulting, and other X domains. Each X is independently defined around a real need and must establish its own audience, authorization, delivery, and acceptance.
+Content and IP can create trusted entry points, and Herline's products help users continue to relevant, approved next steps. It is a strategic direction, not a promise of a particular acquisition cost, conversion rate, or business outcome.
+
+### What does Herline offer brands and collaborators?
+
+Herline may serve approved brands and collaborators by obtaining high-intent users at lower cost and completing conversion. This is a brand-service role, not the C-end homepage tagline. It does not publish or promise pricing, volumes, operational methods, or outcomes; those details are confirmed separately where applicable.
 
 ### What is the current entrepreneurship program name?
 
