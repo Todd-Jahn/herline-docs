@@ -4,7 +4,7 @@
 
 ### What is Herline?
 
-Herline is an acquisition-entry and cost-management infrastructure platform. It connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence. The public AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
+Herline is an acquisition-entry and cost-management infrastructure platform. It connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence. Herline App is the owned digital product within the broader platform. Its public AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
 
 ### What does the platform direction mean?
 
@@ -12,11 +12,11 @@ Content and IP can create trusted entry points, and Herline's products help user
 
 ### What does Herline offer brands and collaborators?
 
-Herline may serve approved brands and collaborators by obtaining high-intent users at lower cost and completing conversion. This is a brand-service role, not the C-end homepage tagline. It does not publish or promise pricing, volumes, operational methods, or outcomes; those details are confirmed separately where applicable.
+Herline may support approved brand engagements around acquisition entry points and cost management. This describes a service role, not the consumer homepage tagline. Scope, measurement, pricing, and outcomes are confirmed separately for each engagement.
 
-### What is the current entrepreneurship program name?
+### Where can I find current program names and details?
 
-The current public name is **《成事者创业营》**. Older technical SKU identifiers or compatibility URLs may remain in implementation. Purchasing a product does not automatically grant program participation, media adoption, or distribution.
+Use the live [herline.vip](https://herline.vip) product pages for current program names, eligibility, and details. This repository avoids duplicating details that can change. Access to a product does not automatically grant participation in a separate program.
 
 ### Who is it for?
 

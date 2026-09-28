@@ -6,12 +6,11 @@
 
 <p align="center">
   <strong>让每个人都拥有影响力。</strong><br>
-  用内容、学习与工具，帮助每个人走向下一步有用的行动。
+  面向获客入口与成本管理的基础设施平台。
 </p>
 
 <p align="center">
   <a href="https://herline.vip"><img src="https://img.shields.io/badge/产品-herline.vip-5b8def?style=flat-square" alt="产品"></a>
-  <img src="https://img.shields.io/badge/状态-已上线-22c55e?style=flat-square" alt="状态：已上线">
   <img src="https://img.shields.io/badge/语言-中文%20%7C%20EN-6366f1?style=flat-square" alt="语言">
   <a href="LICENSE"><img src="https://img.shields.io/badge/文档-CC%20BY%204.0-f59e0b?style=flat-square" alt="文档许可"></a>
 </p>
@@ -20,7 +19,7 @@
   <a href="#what-herline-is">产品</a> ·
   <a href="#public-product-experience">公开产品体验</a> ·
   <a href="#who-it-serves">服务对象</a> ·
-  <a href="#recent-public-progress">近期进展</a> ·
+  <a href="#availability-and-evidence">可用范围</a> ·
   <a href="#trust-and-boundaries">信任边界</a> ·
   <a href="README.md">English</a>
 </p>
@@ -41,16 +40,14 @@ Herline 是一个**获客入口与成本管理的基础设施平台**。它连�
 
 ## 公开产品体验
 
-当前公开体验包括训练**判断力与表达力**的 AI 工作台。AI 负责加速执行，人负责确定方向、核验证据并对最终结果承担责任。
+Herline App 是更大平台中的自有数字产品。其公开 AI 工作台支持**判断力与表达力**：AI 加速执行，人负责确定方向、核验证据并对最终结果承担责任。
 
-当前公开产品提供多条实用链路：
+Herline App 当前提供多条实用链路：
 
 - **深度阅读**：把书籍和长文档转成可复用知识与自己的判断。
 - **创课与讲稿**：从一个观点发展出课程策划、教学脚本、演讲稿和 Presentation。
 - **分发**：把一份经确认的观点适配到不同渠道，并从真实反馈中继续修正。
 - **语音排练**：在真实谈判、路演、面试或重要对话前反复练习。
-
-当前成人项目名称为**《成事者创业营》**。代码中的旧技术 SKU 与兼容 URL 可以继续保留，但对外文案统一使用现行名称。
 
 Herline 面向青少学员及监护人、成人专业人士、青少老师，以及经邀请的主理人与合作方；不同人群使用相互独立、受权限控制的产品路径。具体可用范围以账户、角色、地区和实时产品页面为准。
 
@@ -93,16 +90,11 @@ Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称
 
 <a id="recent-public-progress"></a>
 
-## 近期公开进展
+<a id="availability-and-evidence"></a>
 
-本仓库于 2026 年 9 月按当前平台方向和已发布能力证据完成刷新。
+## 可用范围与证据
 
-- Library 已支持由 Helena 驱动的语义发现与对比推荐。
-- Hypatia Pro 研究工作区支持版本化项目、重新运行及符合条件的断点恢复。
-- Plus 新售与角色专属主理人工作区已面向其对应人群发布。
-- 成人公开入口已收敛为深度阅读、创课讲稿、分发与语音排练四条主链路。
-
-仍在验证的功能、内部 shadow 系统、实验性集成和未发布项目不会在本仓库中写成当前可用能力。本仓库同样不披露获客打法、CAC 假设、定价、运营细节或私有商业安排。
+产品可用范围因账户、角色、地区和发布阶段而异；当前权限与方案以实时产品页面为准。本仓库说明平台方向和公开产品界面，不代表每位用户都能使用文档中的全部能力，也不承诺获客成本、转化率或其他结果。
 
 <a id="trust-and-boundaries"></a>
 
