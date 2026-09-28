@@ -2,7 +2,7 @@
 
 > Professional scarcity is migrating to two axes that compound on multi-year timescales — and AI cannot equalize either by sheer model improvement.
 
-This is a historical product thesis behind Herline's education and learning experience. It remains useful for understanding learning and expression loops, but it does not define Herline's current platform direction, commercial model, or public product availability.
+This is a historical product thesis behind selected Herline education and influence-oriented work. It remains useful for understanding learning and expression in those settings. It does not define Herline's current overall positioning, every show's purpose, or public product availability.
 
 > **Status note:** This document explains a strategic thesis, not current feature availability or measured market outcomes. For the current public product map and availability boundaries, see the [README](../README.md) and [public architecture](architecture.md).
 

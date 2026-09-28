@@ -18,8 +18,8 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Inter', 'Helvetica Neue', sans-serif">
     <text x="400" y="585" font-size="96" font-weight="700" fill="#ffffff" letter-spacing="-3" text-anchor="middle">Herline</text>
-    <text x="400" y="650" font-size="31" font-weight="500" fill="#e2e8f0" letter-spacing="1" text-anchor="middle">获客入口与成本管理基础设施平台</text>
-    <text x="400" y="697" font-size="22" font-weight="400" fill="#94a3b8" letter-spacing="1" text-anchor="middle">内容与 IP 创建可信入口 · 产品与服务连接下一步</text>
+    <text x="400" y="650" font-size="31" font-weight="500" fill="#e2e8f0" letter-spacing="1" text-anchor="middle">节目与内容 · Herline App · 企业服务</text>
+    <text x="400" y="697" font-size="22" font-weight="400" fill="#94a3b8" letter-spacing="1" text-anchor="middle">看见值得学习的本事 · 探索新获客入口</text>
 
     <g transform="translate(330 755)">
       <circle cx="0" cy="-7" r="3.5" fill="#818cf8"/>

@@ -5,8 +5,8 @@
 <h1 align="center">Herline · 赫能</h1>
 
 <p align="center">
-  <strong>Give everyone the power to create lasting influence.</strong><br>
-  Infrastructure for customer-acquisition entry points and cost management.
+  <strong>Shows and content · Herline App · services for organizations</strong><br>
+  Different paths for people learning from content and businesses seeking new customer entry points.
 </p>
 
 <p align="center">
@@ -17,6 +17,8 @@
 
 <p align="center">
   <a href="#what-herline-is">What</a> ·
+  <a href="#for-people">For people</a> ·
+  <a href="#for-organizations">For organizations</a> ·
   <a href="#public-product-experience">Public product experience</a> ·
   <a href="#who-it-serves">Audience</a> ·
   <a href="#availability-and-evidence">Availability</a> ·
@@ -28,15 +30,27 @@
 
 ## What Herline is
 
-Herline is an **acquisition-entry and cost-management infrastructure platform**. It brings together content and IP, user-facing products, learning and service pathways, and the systems that connect them. Its mission is to **give everyone the power to create lasting influence**.
+Herline is a broader project connecting shows and other content, learning and participation paths, Herline App, and services for organizations. **Herline App is one digital product within that project**, not the name for everything Herline does.
 
-Content and IP can create trusted points of entry; Herline's products help people continue from attention into relevant learning, participation, or other approved next steps. The platform is designed to make that journey more coherent and more accountable over time. This is a direction, not a claim of a particular acquisition cost, conversion result, or commercial outcome.
+The same content can matter to different readers for different reasons. A person may discover a skill worth learning; an organization may explore a new way for people to discover it. The two paths have different aims and must be assessed on their own terms.
 
-For brands and approved collaborators, Herline may serve as a partner for obtaining high-intent users at lower cost and completing conversion. That is a **brand-service role**, not the consumer-homepage tagline, and it does not promise a price, volume, or outcome. Specific services, rights, delivery, and measurement are confirmed separately.
+<a id="for-people"></a>
+
+## For people following the content
+
+Show-related stories can make a person's judgment, craft, or way of solving a problem visible. You can notice what is worth learning, ask what you would do in the same situation, and try to **learn and apply a specific skill**. Learning a skill means understanding and practising a method; it does not mean copying another person's identity, connections, or outcome.
+
+Participation should fit the content. Aesthetic content may invite a question or an original work. 《闯出点名堂》 focuses on entrepreneurship, work, and decisions in real tasks: a viewer might notice a problem or a person's strength and consider a possible response. These examples describe the direction for show-specific participation. They do **not** announce that submission, discussion, or practice features are available in Herline App today. Use the live product for current actions.
+
+<a id="for-organizations"></a>
+
+## For organizations
+
+Herline's service direction is to help organizations develop new customer-acquisition entry points and manage or reduce acquisition costs. Whether a particular engagement achieves that aim needs evidence from actual business results. The scope, deliverables, and way to assess an engagement are agreed separately; no cost improvement or conversion outcome is guaranteed here.
 
 ## Public product experience
 
-Herline App is the owned digital product within the broader platform. Its public AI workspace supports **judgment and expression**: AI accelerates execution while people remain responsible for direction, evidence, and the final result.
+Herline App is Herline's digital product. Its public AI workspace supports **judgment and expression**: AI can help with a task while people remain responsible for direction, evidence, and the final result. It is one possible way to continue from content into learning or work; show-specific participation depends on what the live product actually offers.
 
 Herline App currently brings together practical loops:
 
@@ -45,9 +59,7 @@ Herline App currently brings together practical loops:
 - **Distribution** — adapt one approved idea for different channels and learn from real response.
 - **Voice rehearsal** — practise high-stakes conversations and presentations before facing the real situation.
 
-Herline serves youth learners and their guardians, adult professionals, youth educators, and invited operators through separate, permission-aware product paths. Availability varies by account, role, region, and the current product page.
-
-The phrase **“AI resistance” (AI 抗体)** describes the product thesis: as AI absorbs more standardized work, judgment, expression, trust, and responsibility become more valuable.
+Within Herline App, youth learners and their guardians, adult professionals, youth educators, and invited operators use separate, permission-aware product paths. Availability varies by account, role, region, and the current product page.
 
 🌐 The live product and current plan details are at [herline.vip](https://herline.vip).
 
@@ -75,9 +87,11 @@ See [Public product architecture](docs/architecture.md) and the [Glossary](docs/
 
 | Audience | Typical need | Herline path |
 | --- | --- | --- |
+| People following a show or related content | Notice a skill, question a decision, or try an idea themselves | Published content; any participation actions shown in the live product |
 | Youth learners and guardians | Build judgment, expression, and visible work over time | Assessment, Atlas, Library, Courses, Assistant |
 | Adult professionals | Turn experience into clearer decisions, presentations, courses, and market-facing work | Library, Studio, Prep, Assistant, distribution |
 | Youth educators | Prepare learning material and improve delivery without giving up professional judgment | Pro creation, research, and delivery tools |
+| Organizations and brands | Explore new customer entry points and manage acquisition costs | An engagement defined and assessed for the specific organization |
 | Invited operators and partners | Coordinate approved programs and distribute approved work | Role-scoped workspaces and operating tools |
 
 Community identity, partnership, or program participation does not automatically grant access to another user’s data or to restricted product capabilities.
@@ -96,7 +110,7 @@ Product availability varies by account, role, region, and rollout. Use the live 
 - **Youth and voice data receive additional controls.** Guardian authorization and dedicated voice notices apply where required.
 - **Current policy beats this summary.** See the live [Privacy Policy](https://herline.vip/legal/privacy), [Terms](https://herline.vip/legal/terms), and AI-content policy.
 
-This repository contains public documentation, examples, and community resources. It does **not** contain Herline source code or disclose internal model routing, provider topology, feature flags, credentials, customer data, operating runbooks, unit economics, or unreleased product plans. See the [Public documentation policy](docs/public-documentation-policy.md). Product or program purchase does not by itself grant access to restricted capabilities or establish a media, program, or distribution outcome; applicable rights and delivery are confirmed separately.
+This repository contains public documentation and examples; Herline's product source code is proprietary. See the [Public documentation policy](docs/public-documentation-policy.md). Product and program rights, delivery, and any media participation are confirmed separately.
 
 ## Repository scope
 
