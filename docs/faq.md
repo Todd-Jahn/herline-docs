@@ -4,7 +4,7 @@
 
 ### What is Herline?
 
-Herline is a broader project spanning shows and other content, learning and participation paths, Herline App, and services for organizations. Herline App is one digital product within that project. Its public AI workspace helps people work on judgment and expression while they retain responsibility for direction, evidence, and results.
+Herline is a broader project spanning shows and other content, learning and participation paths, Herline App, and services for organizations. Herline App is one digital product within that project. Its public AI workspace covers source-based reading, course and presentation preparation, and voice rehearsal; people check evidence and decide whether to use the output.
 
 ### Why would an individual follow or participate?
 

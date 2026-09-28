@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Shows and content · Herline App · services for organizations</strong><br>
-  Different paths for people learning from content and businesses seeking new customer entry points.
+  People can spot a skill in a show's story and try a method; businesses can explore new customer entry points.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 Herline is a broader project connecting shows and other content, learning and participation paths, Herline App, and services for organizations. **Herline App is one digital product within that project**, not the name for everything Herline does.
 
-The same content can matter to different readers for different reasons. A person may discover a skill worth learning; an organization may explore a new way for people to discover it. The two paths have different aims and must be assessed on their own terms.
+The same content can matter to different readers for different reasons. A person may examine a judgment or method shown in a story and try it in their own situation; an organization may explore a new way for customers to discover it. The two paths have different aims and must be assessed on their own terms.
 
 <a id="for-people"></a>
 
@@ -50,7 +50,7 @@ Herline's service direction is to help organizations develop new customer-acquis
 
 ## Public product experience
 
-Herline App is Herline's digital product. Its public AI workspace supports **judgment and expression**: AI can help with a task while people remain responsible for direction, evidence, and the final result. It is one possible way to continue from content into learning or work; show-specific participation depends on what the live product actually offers.
+Herline App is Herline's digital product. Its public AI workspace covers reading with sources, preparing courses and presentations, and rehearsing conversations. People check evidence and decide whether to use the output. Show-specific participation depends on what the live product actually offers.
 
 Herline App currently brings together practical loops:
 
@@ -69,8 +69,8 @@ Herline separates user-facing surfaces, AI agents, and long-running workflows. A
 
 | User-facing surface | AI / workflow responsibility | User outcome |
 | --- | --- | --- |
-| Assessment | Profile and starting-point capture | A clearer learning or creation starting point |
-| Atlas | Helena plans and discusses reading paths | Better source selection and learning direction |
+| Assessment | Profile and starting-point capture | A recorded starting point for reading or creation |
+| Atlas | Helena plans and discusses reading paths | A reading plan and sources to examine |
 | Library | D2B deep-reading workflow | Traceable knowledge blocks and cross-source understanding |
 | Studio | Holly develops course briefs | Audience, learning arc, structure, and delivery plan |
 | Courses | B2C course-generation workflow | Structured lessons, scripts, audio, and assessments |
@@ -88,9 +88,9 @@ See [Public product architecture](docs/architecture.md) and the [Glossary](docs/
 | Audience | Typical need | Herline path |
 | --- | --- | --- |
 | People following a show or related content | Notice a skill, question a decision, or try an idea themselves | Published content; any participation actions shown in the live product |
-| Youth learners and guardians | Build judgment, expression, and visible work over time | Assessment, Atlas, Library, Courses, Assistant |
-| Adult professionals | Turn experience into clearer decisions, presentations, courses, and market-facing work | Library, Studio, Prep, Assistant, distribution |
-| Youth educators | Prepare learning material and improve delivery without giving up professional judgment | Pro creation, research, and delivery tools |
+| Youth learners and guardians | Find material to read, examine sources, and rehearse speaking where eligible | Assessment, Atlas, Library, Courses, Assistant |
+| Adult professionals | Prepare a course brief or presentation from sources, or rehearse a conversation | Library, Studio, Prep, Assistant, distribution |
+| Youth educators | Draft lesson material, presentations, or research notes for review | Pro creation, research, and delivery tools |
 | Organizations and brands | Explore new customer entry points and manage acquisition costs | An engagement defined and assessed for the specific organization |
 | Invited operators and partners | Coordinate approved programs and distribute approved work | Role-scoped workspaces and operating tools |
 

@@ -10,7 +10,7 @@ The broader project connecting shows and other content, learning and participati
 
 ### Herline App
 
-Herline's digital product for user-facing learning and work. A show or organizational engagement is not automatically a feature of the App; access to App capabilities depends on the live product.
+Herline's digital product for tasks such as reading with sources, preparing courses or presentations, and rehearsing conversations. A show or organizational engagement is not automatically a feature of the App; access to App capabilities depends on the live product.
 
 ### Content and IP entry
 

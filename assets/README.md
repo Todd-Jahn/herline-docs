@@ -5,7 +5,7 @@ Static assets referenced by documentation in this repository.
 ## Current Contents
 
 - `logo.svg` — approved red staircase master mark, embedded as a transparent PNG in SVG for consistent display. Referenced in both README headers.
-- `architecture-diagram.svg` — Public product map for Herline's learning and expression loops.
+- `architecture-diagram.svg` — Public map of Herline App's reading, course creation, presentation, and rehearsal surfaces.
 - `social-preview.svg` + `social-preview.png` — 1280x640 social media preview card. The PNG has been rendered from the current SVG and visually checked. GitHub Settings → Social preview requires a separate upload; changing this file does not update that setting.
 - `share-wechat.svg` + `share-wechat.png` — 800x800 Chinese-language sharing card. The PNG has been rendered from the current SVG and visually checked. Both cards use the approved red staircase master mark.
 

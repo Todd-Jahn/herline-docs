@@ -1,6 +1,6 @@
 # Public Product Architecture
 
-Herline connects shows and other content, learning and participation paths, Herline App, and services for organizations. For individuals, content can reveal a skill worth learning and applying; participation should fit each program. For organizations, Herline aims to develop new customer-acquisition entry points and manage acquisition costs, with results established through actual business evidence.
+Herline connects shows and other content, learning and participation paths, Herline App, and services for organizations. For individuals, an aesthetic topic might invite a question or original work; an entrepreneurial task might prompt someone to notice a strength or problem and compare possible responses. For organizations, Herline aims to develop new customer-acquisition entry points and manage acquisition costs, with results established through actual business evidence.
 
 This page maps the **public Herline App product layer** within that broader project. It explains user-facing responsibilities and permission boundaries, not the architecture of every show or organizational engagement. Show-specific submissions, discussions, and practice are a direction; this map does not represent them as released App features.
 
