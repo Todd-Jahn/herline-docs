@@ -1,6 +1,8 @@
 # Public Product Architecture
 
-This document explains Herline's public product-platform layer. Herline's current platform direction is acquisition entry and cost management: content and IP can create entry points, while products and service paths help users continue to approved next steps. This document does not describe the portfolio, the commercial operating model, or a promised result. It intentionally does not reproduce the private codebase, service topology, deployment design, provider routing, schemas, prompts, credentials, feature flags, or operational runbooks.
+Herline connects shows and other content, learning and participation paths, Herline App, and services for organizations. For individuals, an aesthetic topic might invite a question or original work; an entrepreneurial task might prompt someone to notice a strength or problem and compare possible responses. For organizations, Herline aims to develop new customer-acquisition entry points and manage acquisition costs, with results established through actual business evidence.
+
+This page maps the **public Herline App product layer** within that broader project. It explains user-facing responsibilities and permission boundaries, not the architecture of every show or organizational engagement. Show-specific submissions, discussions, and practice are a direction; this map does not represent them as released App features.
 
 ## Responsibility model
 
@@ -18,7 +20,7 @@ A surface is not automatically an Agent, and an Agent is not automatically a wor
 ## Current public product-platform map
 
 ```text
-Profile / intent
+User goal
       │
       ├─ Atlas + Helena ─────────────── reading and source planning
       │          │
@@ -67,18 +69,7 @@ The private product system distinguishes released capabilities from work that is
 
 Availability can still vary by role, account, region, and rollout. The live product is the final source for what a particular user can access.
 
-## What stays private
-
-- application source code and private repository paths;
-- model/provider routing and fallback topology;
-- prompts, evaluation sets, internal quality thresholds, and unpublished benchmarks;
-- database schemas, infrastructure addresses, credentials, environment variables, and security controls that would increase attack surface;
-- customer data, account allowlists, private program assets, and support records;
-- internal economics, fundraising material, partner negotiations, and unpublished roadmaps;
-- acquisition tactics, CAC assumptions, pricing, measurement methods, and private commercial arrangements;
-- code-complete or validation-pending work presented as released.
-
-See the [Public Documentation Policy](public-documentation-policy.md) for the maintenance contract.
+See the [Public Documentation Policy](public-documentation-policy.md) for this repository's publication criteria.
 
 ---
 

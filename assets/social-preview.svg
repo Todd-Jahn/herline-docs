@@ -18,8 +18,8 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Helvetica Neue', sans-serif">
     <text x="480" y="300" font-size="124" font-weight="700" fill="#ffffff" letter-spacing="-4">Herline</text>
-    <text x="440" y="368" font-size="31" font-weight="500" fill="#e2e8f0" letter-spacing="-0.4">Infrastructure for customer acquisition</text>
-    <text x="440" y="418" font-size="24" font-weight="400" fill="#94a3b8" letter-spacing="-0.1">Trusted entry points · accountable costs</text>
+    <text x="440" y="368" font-size="31" font-weight="500" fill="#e2e8f0" letter-spacing="-0.4">Shows &amp; content · Herline App · brand services</text>
+    <text x="440" y="418" font-size="24" font-weight="400" fill="#94a3b8" letter-spacing="-0.1">Spot a skill · try a method · explore customer entry points</text>
 
     <g transform="translate(440, 540)">
       <circle cx="0" cy="-7" r="3" fill="#818cf8"/>

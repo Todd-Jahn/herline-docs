@@ -6,15 +6,27 @@ Public vocabulary for Herline. This glossary distinguishes product surfaces, Age
 
 ### Herline / 赫能
 
-An acquisition-entry and cost-management infrastructure platform that connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence.
+The broader project connecting shows and other content, learning and participation paths, Herline App, and services for organizations. Herline App is one digital product within it.
+
+### Herline App
+
+Herline's digital product for tasks such as reading with sources, preparing courses or presentations, and rehearsing conversations. A show or organizational engagement is not automatically a feature of the App; access to App capabilities depends on the live product.
 
 ### Content and IP entry
 
-Content and IP can create trusted points of entry. They are not, by themselves, a guarantee of user intent, conversion, or commercial performance.
+Shows and related content can help people discover a skill, person, or question worth exploring. Their business value for an organization must be assessed separately against real outcomes.
 
 ### Brand-service role
 
-For brands and approved collaborators, Herline may serve as a partner for obtaining high-intent users at lower cost and completing conversion. This wording describes a service role; it is not the C-end homepage tagline and does not promise a price, volume, or result. Specific agreements define any service, rights, delivery, and measurement.
+Herline's direction for organizations is to help create new customer-acquisition entry points and manage or reduce acquisition costs. Results require evidence from the particular engagement; agreements define scope and delivery.
+
+### Learning and applying a skill / 复制能力
+
+For someone following content, this means understanding a useful method, trying it in a relevant situation, and learning from the attempt. It does not mean copying another person's identity, connections, or result. Viewing or saving content alone does not demonstrate that a skill has been learned.
+
+### Show-specific participation
+
+The form of participation should fit the content. An aesthetic topic might invite an original work or question; 《闯出点名堂》 raises entrepreneurship and real-task decisions. These are directions for participation, not a list of released App features.
 
 ### Professional collaborators / Agentic collaboration team
 
@@ -22,7 +34,7 @@ The professional collaboration team consists of human professional collaborators
 
 ### AI resistance / AI 抗体
 
-Herline’s public product thesis: when AI absorbs standardized work, human judgment, expression, trust, and responsibility become more valuable. It is a capability metaphor, not a medical claim.
+A historical learning metaphor about human judgment and expression alongside AI. It does not define Herline's current overall positioning or promise protection from AI.
 
 ### Code × media
 

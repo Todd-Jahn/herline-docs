@@ -4,15 +4,19 @@
 
 ### What is Herline?
 
-Herline is an acquisition-entry and cost-management infrastructure platform. It connects content and IP, user-facing products, learning and service pathways, and the systems that support them. Its mission is to give everyone the power to create lasting influence. Herline App is the owned digital product within the broader platform. Its public AI workspace helps people strengthen judgment and expression while people retain responsibility for direction, evidence, and results.
+Herline is a broader project spanning shows and other content, learning and participation paths, Herline App, and services for organizations. Herline App is one digital product within that project. Its public AI workspace covers source-based reading, course and presentation preparation, and voice rehearsal; people check evidence and decide whether to use the output.
 
-### What does the platform direction mean?
+### Why would an individual follow or participate?
 
-Content and IP can create trusted entry points, and Herline's products help users continue to relevant, approved next steps. It is a strategic direction, not a promise of a particular acquisition cost, conversion rate, or business outcome.
+Show-related content can reveal a person's craft, judgment, and way of dealing with a real problem. A viewer might ask questions, compare possible approaches, or try to learn and apply a skill. The right form of participation depends on the program: aesthetic content may invite a question or original work, while 《闯出点名堂》 focuses on entrepreneurship and decisions in real tasks. These are directions for participation, not a claim that every interaction is already available in Herline App.
 
 ### What does Herline offer brands and collaborators?
 
-Herline may support approved brand engagements around acquisition entry points and cost management. This describes a service role, not the consumer homepage tagline. Scope, measurement, pricing, and outcomes are confirmed separately for each engagement.
+Herline's service direction is to help organizations develop new customer-acquisition entry points and manage or reduce acquisition costs. Any improvement needs to be demonstrated through actual business results. Scope and deliverables are agreed for each engagement; this page does not guarantee a cost or conversion outcome.
+
+### Is Herline App the same as Herline?
+
+No. Herline App is the digital product. Shows, content, learning paths, and organizational services also belong to the broader Herline project. An activity described as a direction for a show is not automatically an App feature.
 
 ### Where can I find current program names and details?
 
@@ -20,7 +24,7 @@ Use the live [herline.vip](https://herline.vip) product pages for current progra
 
 ### Who is it for?
 
-Herline has separate paths for youth learners and guardians, adult professionals, youth educators, and invited operators or partners. The live product determines which path and capabilities an account can access.
+Herline addresses people following show-related content, youth learners and guardians, adult professionals, youth educators, organizations, and invited operators or partners. The live product determines which App path and capabilities an account can access.
 
 ### How is it different from a general chatbot?
 

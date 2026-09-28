@@ -11,7 +11,7 @@
   </defs>
   <rect width="960" height="600" rx="24" fill="#ffffff"/>
   <text x="480" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#0f172a">Herline Public Product Map</text>
-  <text x="480" y="76" text-anchor="middle" font-size="14" fill="#64748b">Learning and expression loops; availability varies by role, account and region</text>
+  <text x="480" y="76" text-anchor="middle" font-size="14" fill="#64748b">Reading, course creation and presentation; access varies by account and role</text>
 
   <g fill="url(#bg)" stroke="#818cf8" stroke-width="1.5">
     <rect x="70" y="120" width="240" height="100" rx="14"/>
@@ -34,7 +34,7 @@
     <text x="190" y="186">Understand goals and plan reading</text>
     <text x="480" y="186">Discover and work with sources</text>
     <text x="770" y="186">Shape course and content blueprints</text>
-    <text x="190" y="366">Learn through structured experiences</text>
+    <text x="190" y="366">Lessons, scripts and assessments</text>
     <text x="480" y="366">Turn evidence into presentations</text>
     <text x="770" y="366">Adapt approved work for channels</text>
   </g>
