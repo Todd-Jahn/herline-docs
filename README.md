@@ -6,12 +6,11 @@
 
 <p align="center">
   <strong>Give everyone the power to create lasting influence.</strong><br>
-  Content, learning, and tools that help people take the next useful step.
+  Infrastructure for customer-acquisition entry points and cost management.
 </p>
 
 <p align="center">
   <a href="https://herline.vip"><img src="https://img.shields.io/badge/product-herline.vip-5b8def?style=flat-square" alt="Product"></a>
-  <img src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" alt="Status: live">
   <img src="https://img.shields.io/badge/languages-中文%20%7C%20EN-6366f1?style=flat-square" alt="Languages">
   <a href="LICENSE"><img src="https://img.shields.io/badge/docs-CC%20BY%204.0-f59e0b?style=flat-square" alt="Documentation license"></a>
 </p>
@@ -20,7 +19,7 @@
   <a href="#what-herline-is">What</a> ·
   <a href="#public-product-experience">Public product experience</a> ·
   <a href="#who-it-serves">Audience</a> ·
-  <a href="#recent-public-progress">Progress</a> ·
+  <a href="#availability-and-evidence">Availability</a> ·
   <a href="#trust-and-boundaries">Boundaries</a> ·
   <a href="README.zh-CN.md">中文</a>
 </p>
@@ -37,16 +36,14 @@ For brands and approved collaborators, Herline may serve as a partner for obtain
 
 ## Public product experience
 
-The current public experience includes an AI workspace for strengthening **judgment and expression**. It helps people use AI to accelerate execution while keeping the human responsible for direction, evidence, and the final result.
+Herline App is the owned digital product within the broader platform. Its public AI workspace supports **judgment and expression**: AI accelerates execution while people remain responsible for direction, evidence, and the final result.
 
-The current public experience brings together practical loops:
+Herline App currently brings together practical loops:
 
 - **Deep reading** — turn books and long-form material into reusable knowledge and your own point of view.
 - **Course and presentation creation** — develop an idea into a course brief, teaching script, keynote, or presentation.
 - **Distribution** — adapt one approved idea for different channels and learn from real response.
 - **Voice rehearsal** — practise high-stakes conversations and presentations before facing the real situation.
-
-The current adult program name is **《成事者创业营》**. Older technical SKU identifiers and compatibility URLs may remain in implementation, but public product language uses this name.
 
 Herline serves youth learners and their guardians, adult professionals, youth educators, and invited operators through separate, permission-aware product paths. Availability varies by account, role, region, and the current product page.
 
@@ -85,16 +82,11 @@ See [Public product architecture](docs/architecture.md) and the [Glossary](docs/
 
 Community identity, partnership, or program participation does not automatically grant access to another user’s data or to restricted product capabilities.
 
-## Recent public progress
+<a id="availability-and-evidence"></a>
 
-The public documentation was refreshed in September 2026 against the current platform direction and released-capability evidence.
+## Availability and evidence
 
-- Library now includes Helena-powered semantic discovery and comparison-oriented recommendations.
-- Hypatia’s Pro research workspace supports versioned projects, reruns, and resuming eligible interrupted work.
-- Plus purchase and a role-scoped operator workspace have been released for their intended audiences.
-- The adult public entry now centres on deep reading, course/presentation creation, distribution, and voice rehearsal.
-
-Features still in validation, internal shadow systems, experimental integrations, and unreleased programs are intentionally not advertised as available here. This documentation also does not disclose acquisition playbooks, CAC assumptions, pricing, operating details, or private commercial arrangements.
+Product availability varies by account, role, region, and rollout. Use the live product pages for current access and plan details. This repository describes the platform direction and public product surfaces; it does not establish that every documented capability is available to every user or guarantee acquisition costs, conversion, or other outcomes.
 
 ## Trust and boundaries
 

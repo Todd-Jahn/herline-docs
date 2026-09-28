@@ -4,10 +4,10 @@ Static assets referenced by documentation in this repository.
 
 ## Current Contents
 
-- `logo.svg` — Herline brand mark (asymmetric H, gradient indigo-to-blue). Referenced in README header. Transparent background — sits on any surface.
+- `logo.svg` — approved red staircase master mark, embedded as a transparent PNG in SVG for consistent display. Referenced in both README headers.
 - `architecture-diagram.svg` — Public product map for Herline's learning and expression loops.
-- `social-preview.svg` + `social-preview.png` — 1280x640 social media preview card for the GitHub repo. SVG is the source of truth; PNG is the rendered output uploaded to GitHub Settings → Social preview.
-- `share-wechat.svg` + `share-wechat.png` — Square Chinese-language sharing card. SVG is the source of truth.
+- `social-preview.svg` + `social-preview.png` — 1280x640 social media preview card for the GitHub repo. SVG is the source of truth; PNG is the rendered output for GitHub Settings → Social preview. The current PNG remains an older render and must be regenerated from the updated SVG before publishing.
+- `share-wechat.svg` + `share-wechat.png` — Square Chinese-language sharing card. SVG is the source of truth and uses the same approved red staircase master mark. The current PNG remains an older render and must be regenerated before publishing.
 
 ## Optional — Future Additions
 
