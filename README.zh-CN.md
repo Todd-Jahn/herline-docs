@@ -88,8 +88,6 @@ Herline 明确区分用户界面、AI Agent 与长任务工作流。一个名称
 
 社区身份、合作关系或项目参与不会自动产生数据访问权，也不会自动解锁受限产品能力。
 
-<a id="recent-public-progress"></a>
-
 <a id="availability-and-evidence"></a>
 
 ## 可用范围与证据
